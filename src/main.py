@@ -1,10 +1,10 @@
 # Types de donnees complexes - Bloc 2
 
-# 1. Liste : tous les animaux de la grille 
+# Liste : tous les animaux de la grille 
 
 animaux = ["lapin","renard","lapin","lapin","renard"]
 
-# 2.Dictionnaire : caracteristique d'un animal
+# Dictionnaire : caracteristique d'un animal
 
 lapin = {
 
