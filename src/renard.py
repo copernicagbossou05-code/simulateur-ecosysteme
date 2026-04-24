@@ -9,11 +9,14 @@ class Renard(EtreVivant):
         if lapin.est_vivant():
             lapin.mourir()
             self.energie += 10
+            #Si le renard mange un lapin alors son énergie s'incrémente de 10
+            
             print(f"Le renard a mange un lapin.Energie : {self.energie}")
         else:
             self.faim += 1
             print("Pas de lapin a chasser !")
     def verifier_faim(self):
-        if self.faim >=3:
+        if self.faim >=3: 
+
             self.mourir()
 
