@@ -1,0 +1,17 @@
+[
+    {
+        "tour": 1,
+        "nb_lapins": 3,
+        "nb_renards": 1
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 4,
+        "nb_renards": 1
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 5,
+        "nb_renards": 1
+    }
+]
