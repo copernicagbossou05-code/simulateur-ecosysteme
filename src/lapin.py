@@ -10,7 +10,8 @@ class Lapin(EtreVivant):
         print(f"Le lapin mange de l'herbe. Energie : {self.energie}")
  
     def se_reproduire(self):
-         if self.energie>8 :
-             print ("Un nouveau lapin est ne !")
-             return Lapin (self.x,self.y)
-         return None
+        if self.energie > 15 and self.age > 2:
+            print("Un nouveau lapin est ne !")
+            self.energie -= 5
+            return Lapin(self.x, self.y)
+        return None 

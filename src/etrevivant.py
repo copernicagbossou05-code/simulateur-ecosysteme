@@ -7,7 +7,7 @@ class EtreVivant:
         self.age = 0
         self.vivant = True
         
-    def viellir(self):
+    def vieillir(self):
         self.age += 1
         self.energie -= 1
 
