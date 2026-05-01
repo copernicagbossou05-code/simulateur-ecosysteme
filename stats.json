@@ -2753,5 +2753,9790 @@
         "tour": 5,
         "nb_lapins": 0,
         "nb_renards": 1
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 2,
+        "nb_renards": 1
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 2,
+        "nb_renards": 1
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 1,
+        "nb_renards": 1
+    },
+    {
+        "tour": 4,
+        "nb_lapins": 1,
+        "nb_renards": 1
+    },
+    {
+        "tour": 5,
+        "nb_lapins": 0,
+        "nb_renards": 1
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 5,
+        "nb_renards": 1
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 8,
+        "nb_renards": 1
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 10,
+        "nb_renards": 1
+    },
+    {
+        "tour": 4,
+        "nb_lapins": 13,
+        "nb_renards": 1
+    },
+    {
+        "tour": 5,
+        "nb_lapins": 15,
+        "nb_renards": 1
+    },
+    {
+        "tour": 6,
+        "nb_lapins": 18,
+        "nb_renards": 1
+    },
+    {
+        "tour": 7,
+        "nb_lapins": 20,
+        "nb_renards": 1
+    },
+    {
+        "tour": 8,
+        "nb_lapins": 23,
+        "nb_renards": 1
+    },
+    {
+        "tour": 9,
+        "nb_lapins": 25,
+        "nb_renards": 2
+    },
+    {
+        "tour": 10,
+        "nb_lapins": 28,
+        "nb_renards": 2
+    },
+    {
+        "tour": 11,
+        "nb_lapins": 29,
+        "nb_renards": 2
+    },
+    {
+        "tour": 12,
+        "nb_lapins": 32,
+        "nb_renards": 2
+    },
+    {
+        "tour": 13,
+        "nb_lapins": 33,
+        "nb_renards": 2
+    },
+    {
+        "tour": 14,
+        "nb_lapins": 36,
+        "nb_renards": 2
+    },
+    {
+        "tour": 15,
+        "nb_lapins": 37,
+        "nb_renards": 2
+    },
+    {
+        "tour": 16,
+        "nb_lapins": 40,
+        "nb_renards": 2
+    },
+    {
+        "tour": 17,
+        "nb_lapins": 41,
+        "nb_renards": 3
+    },
+    {
+        "tour": 18,
+        "nb_lapins": 44,
+        "nb_renards": 3
+    },
+    {
+        "tour": 19,
+        "nb_lapins": 44,
+        "nb_renards": 3
+    },
+    {
+        "tour": 20,
+        "nb_lapins": 47,
+        "nb_renards": 3
+    },
+    {
+        "tour": 21,
+        "nb_lapins": 47,
+        "nb_renards": 4
+    },
+    {
+        "tour": 22,
+        "nb_lapins": 50,
+        "nb_renards": 4
+    },
+    {
+        "tour": 23,
+        "nb_lapins": 49,
+        "nb_renards": 5
+    },
+    {
+        "tour": 24,
+        "nb_lapins": 52,
+        "nb_renards": 5
+    },
+    {
+        "tour": 25,
+        "nb_lapins": 50,
+        "nb_renards": 5
+    },
+    {
+        "tour": 26,
+        "nb_lapins": 53,
+        "nb_renards": 5
+    },
+    {
+        "tour": 27,
+        "nb_lapins": 51,
+        "nb_renards": 6
+    },
+    {
+        "tour": 28,
+        "nb_lapins": 54,
+        "nb_renards": 6
+    },
+    {
+        "tour": 29,
+        "nb_lapins": 51,
+        "nb_renards": 8
+    },
+    {
+        "tour": 30,
+        "nb_lapins": 54,
+        "nb_renards": 8
+    },
+    {
+        "tour": 31,
+        "nb_lapins": 49,
+        "nb_renards": 8
+    },
+    {
+        "tour": 32,
+        "nb_lapins": 52,
+        "nb_renards": 8
+    },
+    {
+        "tour": 33,
+        "nb_lapins": 47,
+        "nb_renards": 10
+    },
+    {
+        "tour": 34,
+        "nb_lapins": 50,
+        "nb_renards": 10
+    },
+    {
+        "tour": 35,
+        "nb_lapins": 43,
+        "nb_renards": 12
+    },
+    {
+        "tour": 36,
+        "nb_lapins": 46,
+        "nb_renards": 12
+    },
+    {
+        "tour": 37,
+        "nb_lapins": 37,
+        "nb_renards": 13
+    },
+    {
+        "tour": 38,
+        "nb_lapins": 40,
+        "nb_renards": 13
+    },
+    {
+        "tour": 39,
+        "nb_lapins": 30,
+        "nb_renards": 15
+    },
+    {
+        "tour": 40,
+        "nb_lapins": 33,
+        "nb_renards": 15
+    },
+    {
+        "tour": 41,
+        "nb_lapins": 21,
+        "nb_renards": 20
+    },
+    {
+        "tour": 42,
+        "nb_lapins": 24,
+        "nb_renards": 20
+    },
+    {
+        "tour": 43,
+        "nb_lapins": 7,
+        "nb_renards": 21
+    },
+    {
+        "tour": 44,
+        "nb_lapins": 10,
+        "nb_renards": 21
+    },
+    {
+        "tour": 45,
+        "nb_lapins": 3,
+        "nb_renards": 25
+    },
+    {
+        "tour": 46,
+        "nb_lapins": 6,
+        "nb_renards": 25
+    },
+    {
+        "tour": 47,
+        "nb_lapins": 3,
+        "nb_renards": 27
+    },
+    {
+        "tour": 48,
+        "nb_lapins": 6,
+        "nb_renards": 27
+    },
+    {
+        "tour": 49,
+        "nb_lapins": 3,
+        "nb_renards": 29
+    },
+    {
+        "tour": 50,
+        "nb_lapins": 6,
+        "nb_renards": 29
+    },
+    {
+        "tour": 51,
+        "nb_lapins": 3,
+        "nb_renards": 30
+    },
+    {
+        "tour": 52,
+        "nb_lapins": 6,
+        "nb_renards": 30
+    },
+    {
+        "tour": 53,
+        "nb_lapins": 3,
+        "nb_renards": 32
+    },
+    {
+        "tour": 54,
+        "nb_lapins": 6,
+        "nb_renards": 32
+    },
+    {
+        "tour": 55,
+        "nb_lapins": 3,
+        "nb_renards": 34
+    },
+    {
+        "tour": 56,
+        "nb_lapins": 6,
+        "nb_renards": 34
+    },
+    {
+        "tour": 57,
+        "nb_lapins": 3,
+        "nb_renards": 35
+    },
+    {
+        "tour": 58,
+        "nb_lapins": 6,
+        "nb_renards": 35
+    },
+    {
+        "tour": 59,
+        "nb_lapins": 3,
+        "nb_renards": 37
+    },
+    {
+        "tour": 60,
+        "nb_lapins": 6,
+        "nb_renards": 37
+    },
+    {
+        "tour": 61,
+        "nb_lapins": 3,
+        "nb_renards": 40
+    },
+    {
+        "tour": 62,
+        "nb_lapins": 6,
+        "nb_renards": 40
+    },
+    {
+        "tour": 63,
+        "nb_lapins": 3,
+        "nb_renards": 41
+    },
+    {
+        "tour": 64,
+        "nb_lapins": 6,
+        "nb_renards": 41
+    },
+    {
+        "tour": 65,
+        "nb_lapins": 3,
+        "nb_renards": 43
+    },
+    {
+        "tour": 66,
+        "nb_lapins": 6,
+        "nb_renards": 43
+    },
+    {
+        "tour": 67,
+        "nb_lapins": 3,
+        "nb_renards": 45
+    },
+    {
+        "tour": 68,
+        "nb_lapins": 6,
+        "nb_renards": 45
+    },
+    {
+        "tour": 69,
+        "nb_lapins": 3,
+        "nb_renards": 47
+    },
+    {
+        "tour": 70,
+        "nb_lapins": 6,
+        "nb_renards": 47
+    },
+    {
+        "tour": 71,
+        "nb_lapins": 3,
+        "nb_renards": 48
+    },
+    {
+        "tour": 72,
+        "nb_lapins": 6,
+        "nb_renards": 48
+    },
+    {
+        "tour": 73,
+        "nb_lapins": 3,
+        "nb_renards": 50
+    },
+    {
+        "tour": 74,
+        "nb_lapins": 6,
+        "nb_renards": 50
+    },
+    {
+        "tour": 75,
+        "nb_lapins": 3,
+        "nb_renards": 52
+    },
+    {
+        "tour": 76,
+        "nb_lapins": 6,
+        "nb_renards": 52
+    },
+    {
+        "tour": 77,
+        "nb_lapins": 3,
+        "nb_renards": 53
+    },
+    {
+        "tour": 78,
+        "nb_lapins": 6,
+        "nb_renards": 53
+    },
+    {
+        "tour": 79,
+        "nb_lapins": 3,
+        "nb_renards": 55
+    },
+    {
+        "tour": 80,
+        "nb_lapins": 6,
+        "nb_renards": 55
+    },
+    {
+        "tour": 81,
+        "nb_lapins": 3,
+        "nb_renards": 58
+    },
+    {
+        "tour": 82,
+        "nb_lapins": 6,
+        "nb_renards": 58
+    },
+    {
+        "tour": 83,
+        "nb_lapins": 3,
+        "nb_renards": 59
+    },
+    {
+        "tour": 84,
+        "nb_lapins": 6,
+        "nb_renards": 59
+    },
+    {
+        "tour": 85,
+        "nb_lapins": 3,
+        "nb_renards": 61
+    },
+    {
+        "tour": 86,
+        "nb_lapins": 6,
+        "nb_renards": 61
+    },
+    {
+        "tour": 87,
+        "nb_lapins": 3,
+        "nb_renards": 63
+    },
+    {
+        "tour": 88,
+        "nb_lapins": 6,
+        "nb_renards": 63
+    },
+    {
+        "tour": 89,
+        "nb_lapins": 3,
+        "nb_renards": 65
+    },
+    {
+        "tour": 90,
+        "nb_lapins": 6,
+        "nb_renards": 65
+    },
+    {
+        "tour": 91,
+        "nb_lapins": 3,
+        "nb_renards": 66
+    },
+    {
+        "tour": 92,
+        "nb_lapins": 6,
+        "nb_renards": 66
+    },
+    {
+        "tour": 93,
+        "nb_lapins": 3,
+        "nb_renards": 68
+    },
+    {
+        "tour": 94,
+        "nb_lapins": 6,
+        "nb_renards": 68
+    },
+    {
+        "tour": 95,
+        "nb_lapins": 3,
+        "nb_renards": 70
+    },
+    {
+        "tour": 96,
+        "nb_lapins": 6,
+        "nb_renards": 70
+    },
+    {
+        "tour": 97,
+        "nb_lapins": 3,
+        "nb_renards": 71
+    },
+    {
+        "tour": 98,
+        "nb_lapins": 6,
+        "nb_renards": 71
+    },
+    {
+        "tour": 99,
+        "nb_lapins": 3,
+        "nb_renards": 73
+    },
+    {
+        "tour": 100,
+        "nb_lapins": 6,
+        "nb_renards": 73
+    },
+    {
+        "tour": 101,
+        "nb_lapins": 3,
+        "nb_renards": 76
+    },
+    {
+        "tour": 102,
+        "nb_lapins": 6,
+        "nb_renards": 76
+    },
+    {
+        "tour": 103,
+        "nb_lapins": 3,
+        "nb_renards": 77
+    },
+    {
+        "tour": 104,
+        "nb_lapins": 6,
+        "nb_renards": 77
+    },
+    {
+        "tour": 105,
+        "nb_lapins": 3,
+        "nb_renards": 79
+    },
+    {
+        "tour": 106,
+        "nb_lapins": 6,
+        "nb_renards": 79
+    },
+    {
+        "tour": 107,
+        "nb_lapins": 3,
+        "nb_renards": 81
+    },
+    {
+        "tour": 108,
+        "nb_lapins": 6,
+        "nb_renards": 81
+    },
+    {
+        "tour": 109,
+        "nb_lapins": 3,
+        "nb_renards": 83
+    },
+    {
+        "tour": 110,
+        "nb_lapins": 6,
+        "nb_renards": 83
+    },
+    {
+        "tour": 111,
+        "nb_lapins": 3,
+        "nb_renards": 84
+    },
+    {
+        "tour": 112,
+        "nb_lapins": 6,
+        "nb_renards": 84
+    },
+    {
+        "tour": 113,
+        "nb_lapins": 3,
+        "nb_renards": 86
+    },
+    {
+        "tour": 114,
+        "nb_lapins": 6,
+        "nb_renards": 86
+    },
+    {
+        "tour": 115,
+        "nb_lapins": 3,
+        "nb_renards": 88
+    },
+    {
+        "tour": 116,
+        "nb_lapins": 6,
+        "nb_renards": 88
+    },
+    {
+        "tour": 117,
+        "nb_lapins": 3,
+        "nb_renards": 89
+    },
+    {
+        "tour": 118,
+        "nb_lapins": 6,
+        "nb_renards": 89
+    },
+    {
+        "tour": 119,
+        "nb_lapins": 3,
+        "nb_renards": 91
+    },
+    {
+        "tour": 120,
+        "nb_lapins": 6,
+        "nb_renards": 91
+    },
+    {
+        "tour": 121,
+        "nb_lapins": 3,
+        "nb_renards": 94
+    },
+    {
+        "tour": 122,
+        "nb_lapins": 6,
+        "nb_renards": 94
+    },
+    {
+        "tour": 123,
+        "nb_lapins": 3,
+        "nb_renards": 95
+    },
+    {
+        "tour": 124,
+        "nb_lapins": 6,
+        "nb_renards": 95
+    },
+    {
+        "tour": 125,
+        "nb_lapins": 3,
+        "nb_renards": 97
+    },
+    {
+        "tour": 126,
+        "nb_lapins": 6,
+        "nb_renards": 97
+    },
+    {
+        "tour": 127,
+        "nb_lapins": 3,
+        "nb_renards": 99
+    },
+    {
+        "tour": 128,
+        "nb_lapins": 6,
+        "nb_renards": 99
+    },
+    {
+        "tour": 129,
+        "nb_lapins": 3,
+        "nb_renards": 101
+    },
+    {
+        "tour": 130,
+        "nb_lapins": 6,
+        "nb_renards": 101
+    },
+    {
+        "tour": 131,
+        "nb_lapins": 3,
+        "nb_renards": 102
+    },
+    {
+        "tour": 132,
+        "nb_lapins": 6,
+        "nb_renards": 102
+    },
+    {
+        "tour": 133,
+        "nb_lapins": 3,
+        "nb_renards": 104
+    },
+    {
+        "tour": 134,
+        "nb_lapins": 6,
+        "nb_renards": 104
+    },
+    {
+        "tour": 135,
+        "nb_lapins": 3,
+        "nb_renards": 106
+    },
+    {
+        "tour": 136,
+        "nb_lapins": 6,
+        "nb_renards": 106
+    },
+    {
+        "tour": 137,
+        "nb_lapins": 3,
+        "nb_renards": 107
+    },
+    {
+        "tour": 138,
+        "nb_lapins": 6,
+        "nb_renards": 107
+    },
+    {
+        "tour": 139,
+        "nb_lapins": 3,
+        "nb_renards": 109
+    },
+    {
+        "tour": 140,
+        "nb_lapins": 6,
+        "nb_renards": 109
+    },
+    {
+        "tour": 141,
+        "nb_lapins": 3,
+        "nb_renards": 112
+    },
+    {
+        "tour": 142,
+        "nb_lapins": 6,
+        "nb_renards": 112
+    },
+    {
+        "tour": 143,
+        "nb_lapins": 3,
+        "nb_renards": 113
+    },
+    {
+        "tour": 144,
+        "nb_lapins": 6,
+        "nb_renards": 113
+    },
+    {
+        "tour": 145,
+        "nb_lapins": 3,
+        "nb_renards": 115
+    },
+    {
+        "tour": 146,
+        "nb_lapins": 6,
+        "nb_renards": 115
+    },
+    {
+        "tour": 147,
+        "nb_lapins": 3,
+        "nb_renards": 117
+    },
+    {
+        "tour": 148,
+        "nb_lapins": 6,
+        "nb_renards": 117
+    },
+    {
+        "tour": 149,
+        "nb_lapins": 3,
+        "nb_renards": 119
+    },
+    {
+        "tour": 150,
+        "nb_lapins": 6,
+        "nb_renards": 119
+    },
+    {
+        "tour": 151,
+        "nb_lapins": 3,
+        "nb_renards": 120
+    },
+    {
+        "tour": 152,
+        "nb_lapins": 6,
+        "nb_renards": 120
+    },
+    {
+        "tour": 153,
+        "nb_lapins": 3,
+        "nb_renards": 122
+    },
+    {
+        "tour": 154,
+        "nb_lapins": 6,
+        "nb_renards": 122
+    },
+    {
+        "tour": 155,
+        "nb_lapins": 3,
+        "nb_renards": 124
+    },
+    {
+        "tour": 156,
+        "nb_lapins": 6,
+        "nb_renards": 124
+    },
+    {
+        "tour": 157,
+        "nb_lapins": 3,
+        "nb_renards": 125
+    },
+    {
+        "tour": 158,
+        "nb_lapins": 6,
+        "nb_renards": 125
+    },
+    {
+        "tour": 159,
+        "nb_lapins": 3,
+        "nb_renards": 127
+    },
+    {
+        "tour": 160,
+        "nb_lapins": 6,
+        "nb_renards": 127
+    },
+    {
+        "tour": 161,
+        "nb_lapins": 3,
+        "nb_renards": 130
+    },
+    {
+        "tour": 162,
+        "nb_lapins": 6,
+        "nb_renards": 130
+    },
+    {
+        "tour": 163,
+        "nb_lapins": 3,
+        "nb_renards": 131
+    },
+    {
+        "tour": 164,
+        "nb_lapins": 6,
+        "nb_renards": 131
+    },
+    {
+        "tour": 165,
+        "nb_lapins": 3,
+        "nb_renards": 133
+    },
+    {
+        "tour": 166,
+        "nb_lapins": 6,
+        "nb_renards": 133
+    },
+    {
+        "tour": 167,
+        "nb_lapins": 3,
+        "nb_renards": 135
+    },
+    {
+        "tour": 168,
+        "nb_lapins": 6,
+        "nb_renards": 135
+    },
+    {
+        "tour": 169,
+        "nb_lapins": 3,
+        "nb_renards": 137
+    },
+    {
+        "tour": 170,
+        "nb_lapins": 6,
+        "nb_renards": 137
+    },
+    {
+        "tour": 171,
+        "nb_lapins": 3,
+        "nb_renards": 138
+    },
+    {
+        "tour": 172,
+        "nb_lapins": 6,
+        "nb_renards": 138
+    },
+    {
+        "tour": 173,
+        "nb_lapins": 3,
+        "nb_renards": 140
+    },
+    {
+        "tour": 174,
+        "nb_lapins": 6,
+        "nb_renards": 140
+    },
+    {
+        "tour": 175,
+        "nb_lapins": 3,
+        "nb_renards": 142
+    },
+    {
+        "tour": 176,
+        "nb_lapins": 6,
+        "nb_renards": 142
+    },
+    {
+        "tour": 177,
+        "nb_lapins": 3,
+        "nb_renards": 143
+    },
+    {
+        "tour": 178,
+        "nb_lapins": 6,
+        "nb_renards": 143
+    },
+    {
+        "tour": 179,
+        "nb_lapins": 3,
+        "nb_renards": 145
+    },
+    {
+        "tour": 180,
+        "nb_lapins": 6,
+        "nb_renards": 145
+    },
+    {
+        "tour": 181,
+        "nb_lapins": 3,
+        "nb_renards": 148
+    },
+    {
+        "tour": 182,
+        "nb_lapins": 6,
+        "nb_renards": 148
+    },
+    {
+        "tour": 183,
+        "nb_lapins": 3,
+        "nb_renards": 149
+    },
+    {
+        "tour": 184,
+        "nb_lapins": 6,
+        "nb_renards": 149
+    },
+    {
+        "tour": 185,
+        "nb_lapins": 3,
+        "nb_renards": 151
+    },
+    {
+        "tour": 186,
+        "nb_lapins": 6,
+        "nb_renards": 151
+    },
+    {
+        "tour": 187,
+        "nb_lapins": 3,
+        "nb_renards": 153
+    },
+    {
+        "tour": 188,
+        "nb_lapins": 6,
+        "nb_renards": 153
+    },
+    {
+        "tour": 189,
+        "nb_lapins": 3,
+        "nb_renards": 155
+    },
+    {
+        "tour": 190,
+        "nb_lapins": 6,
+        "nb_renards": 155
+    },
+    {
+        "tour": 191,
+        "nb_lapins": 3,
+        "nb_renards": 156
+    },
+    {
+        "tour": 192,
+        "nb_lapins": 6,
+        "nb_renards": 156
+    },
+    {
+        "tour": 193,
+        "nb_lapins": 3,
+        "nb_renards": 158
+    },
+    {
+        "tour": 194,
+        "nb_lapins": 6,
+        "nb_renards": 158
+    },
+    {
+        "tour": 195,
+        "nb_lapins": 3,
+        "nb_renards": 160
+    },
+    {
+        "tour": 196,
+        "nb_lapins": 6,
+        "nb_renards": 160
+    },
+    {
+        "tour": 197,
+        "nb_lapins": 3,
+        "nb_renards": 161
+    },
+    {
+        "tour": 198,
+        "nb_lapins": 6,
+        "nb_renards": 161
+    },
+    {
+        "tour": 199,
+        "nb_lapins": 3,
+        "nb_renards": 163
+    },
+    {
+        "tour": 200,
+        "nb_lapins": 6,
+        "nb_renards": 163
+    },
+    {
+        "tour": 201,
+        "nb_lapins": 3,
+        "nb_renards": 166
+    },
+    {
+        "tour": 202,
+        "nb_lapins": 6,
+        "nb_renards": 166
+    },
+    {
+        "tour": 203,
+        "nb_lapins": 3,
+        "nb_renards": 167
+    },
+    {
+        "tour": 204,
+        "nb_lapins": 6,
+        "nb_renards": 167
+    },
+    {
+        "tour": 205,
+        "nb_lapins": 3,
+        "nb_renards": 169
+    },
+    {
+        "tour": 206,
+        "nb_lapins": 6,
+        "nb_renards": 169
+    },
+    {
+        "tour": 207,
+        "nb_lapins": 3,
+        "nb_renards": 171
+    },
+    {
+        "tour": 208,
+        "nb_lapins": 6,
+        "nb_renards": 171
+    },
+    {
+        "tour": 209,
+        "nb_lapins": 3,
+        "nb_renards": 173
+    },
+    {
+        "tour": 210,
+        "nb_lapins": 6,
+        "nb_renards": 173
+    },
+    {
+        "tour": 211,
+        "nb_lapins": 3,
+        "nb_renards": 174
+    },
+    {
+        "tour": 212,
+        "nb_lapins": 6,
+        "nb_renards": 174
+    },
+    {
+        "tour": 213,
+        "nb_lapins": 3,
+        "nb_renards": 176
+    },
+    {
+        "tour": 214,
+        "nb_lapins": 6,
+        "nb_renards": 176
+    },
+    {
+        "tour": 215,
+        "nb_lapins": 3,
+        "nb_renards": 178
+    },
+    {
+        "tour": 216,
+        "nb_lapins": 6,
+        "nb_renards": 178
+    },
+    {
+        "tour": 217,
+        "nb_lapins": 3,
+        "nb_renards": 179
+    },
+    {
+        "tour": 218,
+        "nb_lapins": 6,
+        "nb_renards": 179
+    },
+    {
+        "tour": 219,
+        "nb_lapins": 3,
+        "nb_renards": 181
+    },
+    {
+        "tour": 220,
+        "nb_lapins": 6,
+        "nb_renards": 181
+    },
+    {
+        "tour": 221,
+        "nb_lapins": 3,
+        "nb_renards": 184
+    },
+    {
+        "tour": 222,
+        "nb_lapins": 6,
+        "nb_renards": 184
+    },
+    {
+        "tour": 223,
+        "nb_lapins": 3,
+        "nb_renards": 185
+    },
+    {
+        "tour": 224,
+        "nb_lapins": 6,
+        "nb_renards": 185
+    },
+    {
+        "tour": 225,
+        "nb_lapins": 3,
+        "nb_renards": 187
+    },
+    {
+        "tour": 226,
+        "nb_lapins": 6,
+        "nb_renards": 187
+    },
+    {
+        "tour": 227,
+        "nb_lapins": 3,
+        "nb_renards": 189
+    },
+    {
+        "tour": 228,
+        "nb_lapins": 6,
+        "nb_renards": 189
+    },
+    {
+        "tour": 229,
+        "nb_lapins": 3,
+        "nb_renards": 191
+    },
+    {
+        "tour": 230,
+        "nb_lapins": 6,
+        "nb_renards": 191
+    },
+    {
+        "tour": 231,
+        "nb_lapins": 3,
+        "nb_renards": 192
+    },
+    {
+        "tour": 232,
+        "nb_lapins": 6,
+        "nb_renards": 192
+    },
+    {
+        "tour": 233,
+        "nb_lapins": 3,
+        "nb_renards": 194
+    },
+    {
+        "tour": 234,
+        "nb_lapins": 6,
+        "nb_renards": 194
+    },
+    {
+        "tour": 235,
+        "nb_lapins": 3,
+        "nb_renards": 196
+    },
+    {
+        "tour": 236,
+        "nb_lapins": 6,
+        "nb_renards": 196
+    },
+    {
+        "tour": 237,
+        "nb_lapins": 3,
+        "nb_renards": 197
+    },
+    {
+        "tour": 238,
+        "nb_lapins": 6,
+        "nb_renards": 197
+    },
+    {
+        "tour": 239,
+        "nb_lapins": 3,
+        "nb_renards": 199
+    },
+    {
+        "tour": 240,
+        "nb_lapins": 6,
+        "nb_renards": 199
+    },
+    {
+        "tour": 241,
+        "nb_lapins": 3,
+        "nb_renards": 202
+    },
+    {
+        "tour": 242,
+        "nb_lapins": 6,
+        "nb_renards": 202
+    },
+    {
+        "tour": 243,
+        "nb_lapins": 3,
+        "nb_renards": 203
+    },
+    {
+        "tour": 244,
+        "nb_lapins": 6,
+        "nb_renards": 203
+    },
+    {
+        "tour": 245,
+        "nb_lapins": 3,
+        "nb_renards": 205
+    },
+    {
+        "tour": 246,
+        "nb_lapins": 6,
+        "nb_renards": 205
+    },
+    {
+        "tour": 247,
+        "nb_lapins": 3,
+        "nb_renards": 207
+    },
+    {
+        "tour": 248,
+        "nb_lapins": 6,
+        "nb_renards": 207
+    },
+    {
+        "tour": 249,
+        "nb_lapins": 3,
+        "nb_renards": 209
+    },
+    {
+        "tour": 250,
+        "nb_lapins": 6,
+        "nb_renards": 209
+    },
+    {
+        "tour": 251,
+        "nb_lapins": 3,
+        "nb_renards": 210
+    },
+    {
+        "tour": 252,
+        "nb_lapins": 6,
+        "nb_renards": 210
+    },
+    {
+        "tour": 253,
+        "nb_lapins": 3,
+        "nb_renards": 212
+    },
+    {
+        "tour": 254,
+        "nb_lapins": 6,
+        "nb_renards": 212
+    },
+    {
+        "tour": 255,
+        "nb_lapins": 3,
+        "nb_renards": 214
+    },
+    {
+        "tour": 256,
+        "nb_lapins": 6,
+        "nb_renards": 214
+    },
+    {
+        "tour": 257,
+        "nb_lapins": 3,
+        "nb_renards": 215
+    },
+    {
+        "tour": 258,
+        "nb_lapins": 6,
+        "nb_renards": 215
+    },
+    {
+        "tour": 259,
+        "nb_lapins": 3,
+        "nb_renards": 217
+    },
+    {
+        "tour": 260,
+        "nb_lapins": 6,
+        "nb_renards": 217
+    },
+    {
+        "tour": 261,
+        "nb_lapins": 3,
+        "nb_renards": 220
+    },
+    {
+        "tour": 262,
+        "nb_lapins": 6,
+        "nb_renards": 220
+    },
+    {
+        "tour": 263,
+        "nb_lapins": 3,
+        "nb_renards": 221
+    },
+    {
+        "tour": 264,
+        "nb_lapins": 6,
+        "nb_renards": 221
+    },
+    {
+        "tour": 265,
+        "nb_lapins": 3,
+        "nb_renards": 223
+    },
+    {
+        "tour": 266,
+        "nb_lapins": 6,
+        "nb_renards": 223
+    },
+    {
+        "tour": 267,
+        "nb_lapins": 3,
+        "nb_renards": 225
+    },
+    {
+        "tour": 268,
+        "nb_lapins": 6,
+        "nb_renards": 225
+    },
+    {
+        "tour": 269,
+        "nb_lapins": 3,
+        "nb_renards": 227
+    },
+    {
+        "tour": 270,
+        "nb_lapins": 6,
+        "nb_renards": 227
+    },
+    {
+        "tour": 271,
+        "nb_lapins": 3,
+        "nb_renards": 228
+    },
+    {
+        "tour": 272,
+        "nb_lapins": 6,
+        "nb_renards": 228
+    },
+    {
+        "tour": 273,
+        "nb_lapins": 3,
+        "nb_renards": 230
+    },
+    {
+        "tour": 274,
+        "nb_lapins": 6,
+        "nb_renards": 230
+    },
+    {
+        "tour": 275,
+        "nb_lapins": 3,
+        "nb_renards": 232
+    },
+    {
+        "tour": 276,
+        "nb_lapins": 6,
+        "nb_renards": 232
+    },
+    {
+        "tour": 277,
+        "nb_lapins": 3,
+        "nb_renards": 233
+    },
+    {
+        "tour": 278,
+        "nb_lapins": 6,
+        "nb_renards": 233
+    },
+    {
+        "tour": 279,
+        "nb_lapins": 3,
+        "nb_renards": 235
+    },
+    {
+        "tour": 280,
+        "nb_lapins": 6,
+        "nb_renards": 235
+    },
+    {
+        "tour": 281,
+        "nb_lapins": 3,
+        "nb_renards": 238
+    },
+    {
+        "tour": 282,
+        "nb_lapins": 6,
+        "nb_renards": 238
+    },
+    {
+        "tour": 283,
+        "nb_lapins": 3,
+        "nb_renards": 239
+    },
+    {
+        "tour": 284,
+        "nb_lapins": 6,
+        "nb_renards": 239
+    },
+    {
+        "tour": 285,
+        "nb_lapins": 3,
+        "nb_renards": 241
+    },
+    {
+        "tour": 286,
+        "nb_lapins": 6,
+        "nb_renards": 241
+    },
+    {
+        "tour": 287,
+        "nb_lapins": 3,
+        "nb_renards": 243
+    },
+    {
+        "tour": 288,
+        "nb_lapins": 6,
+        "nb_renards": 243
+    },
+    {
+        "tour": 289,
+        "nb_lapins": 3,
+        "nb_renards": 245
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 5,
+        "nb_renards": 1
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 8,
+        "nb_renards": 1
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 10,
+        "nb_renards": 1
+    },
+    {
+        "tour": 4,
+        "nb_lapins": 13,
+        "nb_renards": 1
+    },
+    {
+        "tour": 5,
+        "nb_lapins": 15,
+        "nb_renards": 1
+    },
+    {
+        "tour": 6,
+        "nb_lapins": 18,
+        "nb_renards": 1
+    },
+    {
+        "tour": 7,
+        "nb_lapins": 20,
+        "nb_renards": 1
+    },
+    {
+        "tour": 8,
+        "nb_lapins": 23,
+        "nb_renards": 1
+    },
+    {
+        "tour": 9,
+        "nb_lapins": 25,
+        "nb_renards": 1
+    },
+    {
+        "tour": 10,
+        "nb_lapins": 28,
+        "nb_renards": 1
+    },
+    {
+        "tour": 11,
+        "nb_lapins": 30,
+        "nb_renards": 1
+    },
+    {
+        "tour": 12,
+        "nb_lapins": 33,
+        "nb_renards": 1
+    },
+    {
+        "tour": 13,
+        "nb_lapins": 35,
+        "nb_renards": 1
+    },
+    {
+        "tour": 14,
+        "nb_lapins": 38,
+        "nb_renards": 1
+    },
+    {
+        "tour": 15,
+        "nb_lapins": 40,
+        "nb_renards": 1
+    },
+    {
+        "tour": 16,
+        "nb_lapins": 43,
+        "nb_renards": 1
+    },
+    {
+        "tour": 17,
+        "nb_lapins": 45,
+        "nb_renards": 1
+    },
+    {
+        "tour": 18,
+        "nb_lapins": 48,
+        "nb_renards": 1
+    },
+    {
+        "tour": 19,
+        "nb_lapins": 50,
+        "nb_renards": 1
+    },
+    {
+        "tour": 20,
+        "nb_lapins": 53,
+        "nb_renards": 1
+    },
+    {
+        "tour": 21,
+        "nb_lapins": 55,
+        "nb_renards": 1
+    },
+    {
+        "tour": 22,
+        "nb_lapins": 58,
+        "nb_renards": 1
+    },
+    {
+        "tour": 23,
+        "nb_lapins": 60,
+        "nb_renards": 2
+    },
+    {
+        "tour": 24,
+        "nb_lapins": 63,
+        "nb_renards": 2
+    },
+    {
+        "tour": 25,
+        "nb_lapins": 64,
+        "nb_renards": 2
+    },
+    {
+        "tour": 26,
+        "nb_lapins": 67,
+        "nb_renards": 2
+    },
+    {
+        "tour": 27,
+        "nb_lapins": 68,
+        "nb_renards": 2
+    },
+    {
+        "tour": 28,
+        "nb_lapins": 71,
+        "nb_renards": 2
+    },
+    {
+        "tour": 29,
+        "nb_lapins": 72,
+        "nb_renards": 2
+    },
+    {
+        "tour": 30,
+        "nb_lapins": 75,
+        "nb_renards": 2
+    },
+    {
+        "tour": 31,
+        "nb_lapins": 76,
+        "nb_renards": 2
+    },
+    {
+        "tour": 32,
+        "nb_lapins": 79,
+        "nb_renards": 2
+    },
+    {
+        "tour": 33,
+        "nb_lapins": 80,
+        "nb_renards": 2
+    },
+    {
+        "tour": 34,
+        "nb_lapins": 83,
+        "nb_renards": 2
+    },
+    {
+        "tour": 35,
+        "nb_lapins": 84,
+        "nb_renards": 2
+    },
+    {
+        "tour": 36,
+        "nb_lapins": 87,
+        "nb_renards": 2
+    },
+    {
+        "tour": 37,
+        "nb_lapins": 88,
+        "nb_renards": 3
+    },
+    {
+        "tour": 38,
+        "nb_lapins": 91,
+        "nb_renards": 3
+    },
+    {
+        "tour": 39,
+        "nb_lapins": 91,
+        "nb_renards": 3
+    },
+    {
+        "tour": 40,
+        "nb_lapins": 94,
+        "nb_renards": 3
+    },
+    {
+        "tour": 41,
+        "nb_lapins": 94,
+        "nb_renards": 3
+    },
+    {
+        "tour": 42,
+        "nb_lapins": 97,
+        "nb_renards": 3
+    },
+    {
+        "tour": 43,
+        "nb_lapins": 97,
+        "nb_renards": 3
+    },
+    {
+        "tour": 44,
+        "nb_lapins": 100,
+        "nb_renards": 3
+    },
+    {
+        "tour": 45,
+        "nb_lapins": 100,
+        "nb_renards": 3
+    },
+    {
+        "tour": 46,
+        "nb_lapins": 103,
+        "nb_renards": 3
+    },
+    {
+        "tour": 47,
+        "nb_lapins": 103,
+        "nb_renards": 4
+    },
+    {
+        "tour": 48,
+        "nb_lapins": 106,
+        "nb_renards": 4
+    },
+    {
+        "tour": 49,
+        "nb_lapins": 105,
+        "nb_renards": 5
+    },
+    {
+        "tour": 50,
+        "nb_lapins": 108,
+        "nb_renards": 5
+    },
+    {
+        "tour": 51,
+        "nb_lapins": 106,
+        "nb_renards": 5
+    },
+    {
+        "tour": 52,
+        "nb_lapins": 109,
+        "nb_renards": 5
+    },
+    {
+        "tour": 53,
+        "nb_lapins": 107,
+        "nb_renards": 5
+    },
+    {
+        "tour": 54,
+        "nb_lapins": 110,
+        "nb_renards": 5
+    },
+    {
+        "tour": 55,
+        "nb_lapins": 108,
+        "nb_renards": 5
+    },
+    {
+        "tour": 56,
+        "nb_lapins": 111,
+        "nb_renards": 5
+    },
+    {
+        "tour": 57,
+        "nb_lapins": 109,
+        "nb_renards": 5
+    },
+    {
+        "tour": 58,
+        "nb_lapins": 112,
+        "nb_renards": 5
+    },
+    {
+        "tour": 59,
+        "nb_lapins": 110,
+        "nb_renards": 5
+    },
+    {
+        "tour": 60,
+        "nb_lapins": 113,
+        "nb_renards": 5
+    },
+    {
+        "tour": 61,
+        "nb_lapins": 111,
+        "nb_renards": 7
+    },
+    {
+        "tour": 62,
+        "nb_lapins": 114,
+        "nb_renards": 7
+    },
+    {
+        "tour": 63,
+        "nb_lapins": 110,
+        "nb_renards": 8
+    },
+    {
+        "tour": 64,
+        "nb_lapins": 113,
+        "nb_renards": 8
+    },
+    {
+        "tour": 65,
+        "nb_lapins": 108,
+        "nb_renards": 8
+    },
+    {
+        "tour": 66,
+        "nb_lapins": 111,
+        "nb_renards": 8
+    },
+    {
+        "tour": 67,
+        "nb_lapins": 106,
+        "nb_renards": 8
+    },
+    {
+        "tour": 68,
+        "nb_lapins": 109,
+        "nb_renards": 8
+    },
+    {
+        "tour": 69,
+        "nb_lapins": 104,
+        "nb_renards": 8
+    },
+    {
+        "tour": 70,
+        "nb_lapins": 107,
+        "nb_renards": 8
+    },
+    {
+        "tour": 71,
+        "nb_lapins": 102,
+        "nb_renards": 9
+    },
+    {
+        "tour": 72,
+        "nb_lapins": 105,
+        "nb_renards": 9
+    },
+    {
+        "tour": 73,
+        "nb_lapins": 99,
+        "nb_renards": 10
+    },
+    {
+        "tour": 74,
+        "nb_lapins": 102,
+        "nb_renards": 10
+    },
+    {
+        "tour": 75,
+        "nb_lapins": 95,
+        "nb_renards": 12
+    },
+    {
+        "tour": 76,
+        "nb_lapins": 98,
+        "nb_renards": 12
+    },
+    {
+        "tour": 77,
+        "nb_lapins": 89,
+        "nb_renards": 13
+    },
+    {
+        "tour": 78,
+        "nb_lapins": 92,
+        "nb_renards": 13
+    },
+    {
+        "tour": 79,
+        "nb_lapins": 82,
+        "nb_renards": 13
+    },
+    {
+        "tour": 80,
+        "nb_lapins": 85,
+        "nb_renards": 13
+    },
+    {
+        "tour": 81,
+        "nb_lapins": 75,
+        "nb_renards": 13
+    },
+    {
+        "tour": 82,
+        "nb_lapins": 78,
+        "nb_renards": 13
+    },
+    {
+        "tour": 83,
+        "nb_lapins": 68,
+        "nb_renards": 13
+    },
+    {
+        "tour": 84,
+        "nb_lapins": 71,
+        "nb_renards": 13
+    },
+    {
+        "tour": 85,
+        "nb_lapins": 61,
+        "nb_renards": 16
+    },
+    {
+        "tour": 86,
+        "nb_lapins": 64,
+        "nb_renards": 16
+    },
+    {
+        "tour": 87,
+        "nb_lapins": 51,
+        "nb_renards": 19
+    },
+    {
+        "tour": 88,
+        "nb_lapins": 54,
+        "nb_renards": 19
+    },
+    {
+        "tour": 89,
+        "nb_lapins": 38,
+        "nb_renards": 21
+    },
+    {
+        "tour": 90,
+        "nb_lapins": 41,
+        "nb_renards": 21
+    },
+    {
+        "tour": 91,
+        "nb_lapins": 23,
+        "nb_renards": 21
+    },
+    {
+        "tour": 92,
+        "nb_lapins": 26,
+        "nb_renards": 21
+    },
+    {
+        "tour": 93,
+        "nb_lapins": 8,
+        "nb_renards": 21
+    },
+    {
+        "tour": 94,
+        "nb_lapins": 11,
+        "nb_renards": 21
+    },
+    {
+        "tour": 95,
+        "nb_lapins": 3,
+        "nb_renards": 22
+    },
+    {
+        "tour": 96,
+        "nb_lapins": 6,
+        "nb_renards": 22
+    },
+    {
+        "tour": 97,
+        "nb_lapins": 3,
+        "nb_renards": 22
+    },
+    {
+        "tour": 98,
+        "nb_lapins": 6,
+        "nb_renards": 22
+    },
+    {
+        "tour": 99,
+        "nb_lapins": 3,
+        "nb_renards": 24
+    },
+    {
+        "tour": 100,
+        "nb_lapins": 6,
+        "nb_renards": 24
+    },
+    {
+        "tour": 101,
+        "nb_lapins": 3,
+        "nb_renards": 27
+    },
+    {
+        "tour": 102,
+        "nb_lapins": 6,
+        "nb_renards": 27
+    },
+    {
+        "tour": 103,
+        "nb_lapins": 3,
+        "nb_renards": 28
+    },
+    {
+        "tour": 104,
+        "nb_lapins": 6,
+        "nb_renards": 28
+    },
+    {
+        "tour": 105,
+        "nb_lapins": 3,
+        "nb_renards": 28
+    },
+    {
+        "tour": 106,
+        "nb_lapins": 6,
+        "nb_renards": 28
+    },
+    {
+        "tour": 107,
+        "nb_lapins": 3,
+        "nb_renards": 28
+    },
+    {
+        "tour": 108,
+        "nb_lapins": 6,
+        "nb_renards": 28
+    },
+    {
+        "tour": 109,
+        "nb_lapins": 3,
+        "nb_renards": 28
+    },
+    {
+        "tour": 110,
+        "nb_lapins": 6,
+        "nb_renards": 28
+    },
+    {
+        "tour": 111,
+        "nb_lapins": 3,
+        "nb_renards": 29
+    },
+    {
+        "tour": 112,
+        "nb_lapins": 6,
+        "nb_renards": 29
+    },
+    {
+        "tour": 113,
+        "nb_lapins": 3,
+        "nb_renards": 31
+    },
+    {
+        "tour": 114,
+        "nb_lapins": 6,
+        "nb_renards": 31
+    },
+    {
+        "tour": 115,
+        "nb_lapins": 3,
+        "nb_renards": 33
+    },
+    {
+        "tour": 116,
+        "nb_lapins": 6,
+        "nb_renards": 33
+    },
+    {
+        "tour": 117,
+        "nb_lapins": 3,
+        "nb_renards": 34
+    },
+    {
+        "tour": 118,
+        "nb_lapins": 6,
+        "nb_renards": 34
+    },
+    {
+        "tour": 119,
+        "nb_lapins": 3,
+        "nb_renards": 34
+    },
+    {
+        "tour": 120,
+        "nb_lapins": 6,
+        "nb_renards": 34
+    },
+    {
+        "tour": 121,
+        "nb_lapins": 3,
+        "nb_renards": 34
+    },
+    {
+        "tour": 122,
+        "nb_lapins": 6,
+        "nb_renards": 34
+    },
+    {
+        "tour": 123,
+        "nb_lapins": 3,
+        "nb_renards": 34
+    },
+    {
+        "tour": 124,
+        "nb_lapins": 6,
+        "nb_renards": 34
+    },
+    {
+        "tour": 125,
+        "nb_lapins": 3,
+        "nb_renards": 36
+    },
+    {
+        "tour": 126,
+        "nb_lapins": 6,
+        "nb_renards": 36
+    },
+    {
+        "tour": 127,
+        "nb_lapins": 3,
+        "nb_renards": 38
+    },
+    {
+        "tour": 128,
+        "nb_lapins": 6,
+        "nb_renards": 38
+    },
+    {
+        "tour": 129,
+        "nb_lapins": 3,
+        "nb_renards": 40
+    },
+    {
+        "tour": 130,
+        "nb_lapins": 6,
+        "nb_renards": 40
+    },
+    {
+        "tour": 131,
+        "nb_lapins": 3,
+        "nb_renards": 40
+    },
+    {
+        "tour": 132,
+        "nb_lapins": 6,
+        "nb_renards": 40
+    },
+    {
+        "tour": 133,
+        "nb_lapins": 3,
+        "nb_renards": 40
+    },
+    {
+        "tour": 134,
+        "nb_lapins": 6,
+        "nb_renards": 40
+    },
+    {
+        "tour": 135,
+        "nb_lapins": 3,
+        "nb_renards": 40
+    },
+    {
+        "tour": 136,
+        "nb_lapins": 6,
+        "nb_renards": 40
+    },
+    {
+        "tour": 137,
+        "nb_lapins": 3,
+        "nb_renards": 40
+    },
+    {
+        "tour": 138,
+        "nb_lapins": 6,
+        "nb_renards": 40
+    },
+    {
+        "tour": 139,
+        "nb_lapins": 3,
+        "nb_renards": 42
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 5,
+        "nb_renards": 1
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 8,
+        "nb_renards": 1
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 11,
+        "nb_renards": 1
+    },
+    {
+        "tour": 4,
+        "nb_lapins": 13,
+        "nb_renards": 1
+    },
+    {
+        "tour": 5,
+        "nb_lapins": 16,
+        "nb_renards": 1
+    },
+    {
+        "tour": 6,
+        "nb_lapins": 19,
+        "nb_renards": 1
+    },
+    {
+        "tour": 7,
+        "nb_lapins": 21,
+        "nb_renards": 1
+    },
+    {
+        "tour": 8,
+        "nb_lapins": 24,
+        "nb_renards": 1
+    },
+    {
+        "tour": 9,
+        "nb_lapins": 27,
+        "nb_renards": 1
+    },
+    {
+        "tour": 10,
+        "nb_lapins": 29,
+        "nb_renards": 1
+    },
+    {
+        "tour": 11,
+        "nb_lapins": 32,
+        "nb_renards": 1
+    },
+    {
+        "tour": 12,
+        "nb_lapins": 35,
+        "nb_renards": 1
+    },
+    {
+        "tour": 13,
+        "nb_lapins": 37,
+        "nb_renards": 1
+    },
+    {
+        "tour": 14,
+        "nb_lapins": 40,
+        "nb_renards": 1
+    },
+    {
+        "tour": 15,
+        "nb_lapins": 43,
+        "nb_renards": 1
+    },
+    {
+        "tour": 16,
+        "nb_lapins": 45,
+        "nb_renards": 1
+    },
+    {
+        "tour": 17,
+        "nb_lapins": 48,
+        "nb_renards": 1
+    },
+    {
+        "tour": 18,
+        "nb_lapins": 51,
+        "nb_renards": 1
+    },
+    {
+        "tour": 19,
+        "nb_lapins": 53,
+        "nb_renards": 1
+    },
+    {
+        "tour": 20,
+        "nb_lapins": 56,
+        "nb_renards": 1
+    },
+    {
+        "tour": 21,
+        "nb_lapins": 59,
+        "nb_renards": 1
+    },
+    {
+        "tour": 22,
+        "nb_lapins": 61,
+        "nb_renards": 1
+    },
+    {
+        "tour": 23,
+        "nb_lapins": 64,
+        "nb_renards": 1
+    },
+    {
+        "tour": 24,
+        "nb_lapins": 67,
+        "nb_renards": 1
+    },
+    {
+        "tour": 25,
+        "nb_lapins": 69,
+        "nb_renards": 1
+    },
+    {
+        "tour": 26,
+        "nb_lapins": 72,
+        "nb_renards": 1
+    },
+    {
+        "tour": 27,
+        "nb_lapins": 75,
+        "nb_renards": 1
+    },
+    {
+        "tour": 28,
+        "nb_lapins": 77,
+        "nb_renards": 1
+    },
+    {
+        "tour": 29,
+        "nb_lapins": 80,
+        "nb_renards": 1
+    },
+    {
+        "tour": 30,
+        "nb_lapins": 83,
+        "nb_renards": 1
+    },
+    {
+        "tour": 31,
+        "nb_lapins": 85,
+        "nb_renards": 1
+    },
+    {
+        "tour": 32,
+        "nb_lapins": 88,
+        "nb_renards": 1
+    },
+    {
+        "tour": 33,
+        "nb_lapins": 91,
+        "nb_renards": 1
+    },
+    {
+        "tour": 34,
+        "nb_lapins": 93,
+        "nb_renards": 1
+    },
+    {
+        "tour": 35,
+        "nb_lapins": 96,
+        "nb_renards": 1
+    },
+    {
+        "tour": 36,
+        "nb_lapins": 99,
+        "nb_renards": 1
+    },
+    {
+        "tour": 37,
+        "nb_lapins": 101,
+        "nb_renards": 1
+    },
+    {
+        "tour": 38,
+        "nb_lapins": 104,
+        "nb_renards": 1
+    },
+    {
+        "tour": 39,
+        "nb_lapins": 107,
+        "nb_renards": 1
+    },
+    {
+        "tour": 40,
+        "nb_lapins": 109,
+        "nb_renards": 1
+    },
+    {
+        "tour": 41,
+        "nb_lapins": 112,
+        "nb_renards": 1
+    },
+    {
+        "tour": 42,
+        "nb_lapins": 115,
+        "nb_renards": 1
+    },
+    {
+        "tour": 43,
+        "nb_lapins": 117,
+        "nb_renards": 1
+    },
+    {
+        "tour": 44,
+        "nb_lapins": 120,
+        "nb_renards": 1
+    },
+    {
+        "tour": 45,
+        "nb_lapins": 123,
+        "nb_renards": 1
+    },
+    {
+        "tour": 46,
+        "nb_lapins": 125,
+        "nb_renards": 1
+    },
+    {
+        "tour": 47,
+        "nb_lapins": 128,
+        "nb_renards": 1
+    },
+    {
+        "tour": 48,
+        "nb_lapins": 131,
+        "nb_renards": 1
+    },
+    {
+        "tour": 49,
+        "nb_lapins": 133,
+        "nb_renards": 1
+    },
+    {
+        "tour": 50,
+        "nb_lapins": 136,
+        "nb_renards": 1
+    },
+    {
+        "tour": 51,
+        "nb_lapins": 139,
+        "nb_renards": 1
+    },
+    {
+        "tour": 52,
+        "nb_lapins": 141,
+        "nb_renards": 1
+    },
+    {
+        "tour": 53,
+        "nb_lapins": 144,
+        "nb_renards": 1
+    },
+    {
+        "tour": 54,
+        "nb_lapins": 147,
+        "nb_renards": 1
+    },
+    {
+        "tour": 55,
+        "nb_lapins": 149,
+        "nb_renards": 1
+    },
+    {
+        "tour": 56,
+        "nb_lapins": 152,
+        "nb_renards": 1
+    },
+    {
+        "tour": 57,
+        "nb_lapins": 155,
+        "nb_renards": 1
+    },
+    {
+        "tour": 58,
+        "nb_lapins": 157,
+        "nb_renards": 1
+    },
+    {
+        "tour": 59,
+        "nb_lapins": 160,
+        "nb_renards": 1
+    },
+    {
+        "tour": 60,
+        "nb_lapins": 163,
+        "nb_renards": 1
+    },
+    {
+        "tour": 61,
+        "nb_lapins": 165,
+        "nb_renards": 1
+    },
+    {
+        "tour": 62,
+        "nb_lapins": 168,
+        "nb_renards": 1
+    },
+    {
+        "tour": 63,
+        "nb_lapins": 171,
+        "nb_renards": 1
+    },
+    {
+        "tour": 64,
+        "nb_lapins": 173,
+        "nb_renards": 1
+    },
+    {
+        "tour": 65,
+        "nb_lapins": 176,
+        "nb_renards": 1
+    },
+    {
+        "tour": 66,
+        "nb_lapins": 179,
+        "nb_renards": 1
+    },
+    {
+        "tour": 67,
+        "nb_lapins": 181,
+        "nb_renards": 1
+    },
+    {
+        "tour": 68,
+        "nb_lapins": 184,
+        "nb_renards": 1
+    },
+    {
+        "tour": 69,
+        "nb_lapins": 187,
+        "nb_renards": 1
+    },
+    {
+        "tour": 70,
+        "nb_lapins": 189,
+        "nb_renards": 1
+    },
+    {
+        "tour": 71,
+        "nb_lapins": 192,
+        "nb_renards": 1
+    },
+    {
+        "tour": 72,
+        "nb_lapins": 195,
+        "nb_renards": 1
+    },
+    {
+        "tour": 73,
+        "nb_lapins": 197,
+        "nb_renards": 1
+    },
+    {
+        "tour": 74,
+        "nb_lapins": 200,
+        "nb_renards": 1
+    },
+    {
+        "tour": 75,
+        "nb_lapins": 203,
+        "nb_renards": 1
+    },
+    {
+        "tour": 76,
+        "nb_lapins": 205,
+        "nb_renards": 1
+    },
+    {
+        "tour": 77,
+        "nb_lapins": 208,
+        "nb_renards": 1
+    },
+    {
+        "tour": 78,
+        "nb_lapins": 211,
+        "nb_renards": 1
+    },
+    {
+        "tour": 79,
+        "nb_lapins": 213,
+        "nb_renards": 1
+    },
+    {
+        "tour": 80,
+        "nb_lapins": 216,
+        "nb_renards": 1
+    },
+    {
+        "tour": 81,
+        "nb_lapins": 219,
+        "nb_renards": 1
+    },
+    {
+        "tour": 82,
+        "nb_lapins": 221,
+        "nb_renards": 1
+    },
+    {
+        "tour": 83,
+        "nb_lapins": 224,
+        "nb_renards": 1
+    },
+    {
+        "tour": 84,
+        "nb_lapins": 227,
+        "nb_renards": 1
+    },
+    {
+        "tour": 85,
+        "nb_lapins": 229,
+        "nb_renards": 1
+    },
+    {
+        "tour": 86,
+        "nb_lapins": 232,
+        "nb_renards": 1
+    },
+    {
+        "tour": 87,
+        "nb_lapins": 235,
+        "nb_renards": 1
+    },
+    {
+        "tour": 88,
+        "nb_lapins": 237,
+        "nb_renards": 1
+    },
+    {
+        "tour": 89,
+        "nb_lapins": 240,
+        "nb_renards": 1
+    },
+    {
+        "tour": 90,
+        "nb_lapins": 243,
+        "nb_renards": 1
+    },
+    {
+        "tour": 91,
+        "nb_lapins": 245,
+        "nb_renards": 1
+    },
+    {
+        "tour": 92,
+        "nb_lapins": 248,
+        "nb_renards": 1
+    },
+    {
+        "tour": 93,
+        "nb_lapins": 251,
+        "nb_renards": 1
+    },
+    {
+        "tour": 94,
+        "nb_lapins": 253,
+        "nb_renards": 2
+    },
+    {
+        "tour": 95,
+        "nb_lapins": 256,
+        "nb_renards": 2
+    },
+    {
+        "tour": 96,
+        "nb_lapins": 259,
+        "nb_renards": 2
+    },
+    {
+        "tour": 97,
+        "nb_lapins": 260,
+        "nb_renards": 2
+    },
+    {
+        "tour": 98,
+        "nb_lapins": 263,
+        "nb_renards": 2
+    },
+    {
+        "tour": 99,
+        "nb_lapins": 266,
+        "nb_renards": 2
+    },
+    {
+        "tour": 100,
+        "nb_lapins": 267,
+        "nb_renards": 2
+    },
+    {
+        "tour": 101,
+        "nb_lapins": 270,
+        "nb_renards": 2
+    },
+    {
+        "tour": 102,
+        "nb_lapins": 273,
+        "nb_renards": 2
+    },
+    {
+        "tour": 103,
+        "nb_lapins": 274,
+        "nb_renards": 2
+    },
+    {
+        "tour": 104,
+        "nb_lapins": 277,
+        "nb_renards": 2
+    },
+    {
+        "tour": 105,
+        "nb_lapins": 280,
+        "nb_renards": 2
+    },
+    {
+        "tour": 106,
+        "nb_lapins": 281,
+        "nb_renards": 2
+    },
+    {
+        "tour": 107,
+        "nb_lapins": 284,
+        "nb_renards": 2
+    },
+    {
+        "tour": 108,
+        "nb_lapins": 287,
+        "nb_renards": 2
+    },
+    {
+        "tour": 109,
+        "nb_lapins": 288,
+        "nb_renards": 2
+    },
+    {
+        "tour": 110,
+        "nb_lapins": 291,
+        "nb_renards": 2
+    },
+    {
+        "tour": 111,
+        "nb_lapins": 294,
+        "nb_renards": 2
+    },
+    {
+        "tour": 112,
+        "nb_lapins": 295,
+        "nb_renards": 2
+    },
+    {
+        "tour": 113,
+        "nb_lapins": 298,
+        "nb_renards": 2
+    },
+    {
+        "tour": 114,
+        "nb_lapins": 301,
+        "nb_renards": 2
+    },
+    {
+        "tour": 115,
+        "nb_lapins": 302,
+        "nb_renards": 2
+    },
+    {
+        "tour": 116,
+        "nb_lapins": 305,
+        "nb_renards": 2
+    },
+    {
+        "tour": 117,
+        "nb_lapins": 308,
+        "nb_renards": 2
+    },
+    {
+        "tour": 118,
+        "nb_lapins": 309,
+        "nb_renards": 2
+    },
+    {
+        "tour": 119,
+        "nb_lapins": 312,
+        "nb_renards": 2
+    },
+    {
+        "tour": 120,
+        "nb_lapins": 315,
+        "nb_renards": 2
+    },
+    {
+        "tour": 121,
+        "nb_lapins": 316,
+        "nb_renards": 2
+    },
+    {
+        "tour": 122,
+        "nb_lapins": 319,
+        "nb_renards": 2
+    },
+    {
+        "tour": 123,
+        "nb_lapins": 322,
+        "nb_renards": 2
+    },
+    {
+        "tour": 124,
+        "nb_lapins": 323,
+        "nb_renards": 2
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 5,
+        "nb_renards": 1
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 8,
+        "nb_renards": 1
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 10,
+        "nb_renards": 1
+    },
+    {
+        "tour": 4,
+        "nb_lapins": 13,
+        "nb_renards": 1
+    },
+    {
+        "tour": 5,
+        "nb_lapins": 15,
+        "nb_renards": 1
+    },
+    {
+        "tour": 6,
+        "nb_lapins": 18,
+        "nb_renards": 1
+    },
+    {
+        "tour": 7,
+        "nb_lapins": 20,
+        "nb_renards": 1
+    },
+    {
+        "tour": 8,
+        "nb_lapins": 23,
+        "nb_renards": 1
+    },
+    {
+        "tour": 9,
+        "nb_lapins": 25,
+        "nb_renards": 1
+    },
+    {
+        "tour": 10,
+        "nb_lapins": 28,
+        "nb_renards": 1
+    },
+    {
+        "tour": 11,
+        "nb_lapins": 30,
+        "nb_renards": 1
+    },
+    {
+        "tour": 12,
+        "nb_lapins": 33,
+        "nb_renards": 1
+    },
+    {
+        "tour": 13,
+        "nb_lapins": 35,
+        "nb_renards": 1
+    },
+    {
+        "tour": 14,
+        "nb_lapins": 38,
+        "nb_renards": 1
+    },
+    {
+        "tour": 15,
+        "nb_lapins": 40,
+        "nb_renards": 1
+    },
+    {
+        "tour": 16,
+        "nb_lapins": 43,
+        "nb_renards": 1
+    },
+    {
+        "tour": 17,
+        "nb_lapins": 45,
+        "nb_renards": 1
+    },
+    {
+        "tour": 18,
+        "nb_lapins": 48,
+        "nb_renards": 1
+    },
+    {
+        "tour": 19,
+        "nb_lapins": 50,
+        "nb_renards": 1
+    },
+    {
+        "tour": 20,
+        "nb_lapins": 53,
+        "nb_renards": 1
+    },
+    {
+        "tour": 21,
+        "nb_lapins": 55,
+        "nb_renards": 1
+    },
+    {
+        "tour": 22,
+        "nb_lapins": 58,
+        "nb_renards": 1
+    },
+    {
+        "tour": 23,
+        "nb_lapins": 60,
+        "nb_renards": 1
+    },
+    {
+        "tour": 24,
+        "nb_lapins": 63,
+        "nb_renards": 1
+    },
+    {
+        "tour": 25,
+        "nb_lapins": 65,
+        "nb_renards": 1
+    },
+    {
+        "tour": 26,
+        "nb_lapins": 68,
+        "nb_renards": 1
+    },
+    {
+        "tour": 27,
+        "nb_lapins": 70,
+        "nb_renards": 1
+    },
+    {
+        "tour": 28,
+        "nb_lapins": 73,
+        "nb_renards": 1
+    },
+    {
+        "tour": 29,
+        "nb_lapins": 75,
+        "nb_renards": 1
+    },
+    {
+        "tour": 30,
+        "nb_lapins": 78,
+        "nb_renards": 1
+    },
+    {
+        "tour": 31,
+        "nb_lapins": 80,
+        "nb_renards": 1
+    },
+    {
+        "tour": 32,
+        "nb_lapins": 83,
+        "nb_renards": 1
+    },
+    {
+        "tour": 33,
+        "nb_lapins": 85,
+        "nb_renards": 1
+    },
+    {
+        "tour": 34,
+        "nb_lapins": 88,
+        "nb_renards": 1
+    },
+    {
+        "tour": 35,
+        "nb_lapins": 90,
+        "nb_renards": 1
+    },
+    {
+        "tour": 36,
+        "nb_lapins": 93,
+        "nb_renards": 1
+    },
+    {
+        "tour": 37,
+        "nb_lapins": 95,
+        "nb_renards": 1
+    },
+    {
+        "tour": 38,
+        "nb_lapins": 98,
+        "nb_renards": 1
+    },
+    {
+        "tour": 39,
+        "nb_lapins": 100,
+        "nb_renards": 1
+    },
+    {
+        "tour": 40,
+        "nb_lapins": 103,
+        "nb_renards": 1
+    },
+    {
+        "tour": 41,
+        "nb_lapins": 105,
+        "nb_renards": 1
+    },
+    {
+        "tour": 42,
+        "nb_lapins": 108,
+        "nb_renards": 1
+    },
+    {
+        "tour": 43,
+        "nb_lapins": 110,
+        "nb_renards": 2
+    },
+    {
+        "tour": 44,
+        "nb_lapins": 113,
+        "nb_renards": 2
+    },
+    {
+        "tour": 45,
+        "nb_lapins": 114,
+        "nb_renards": 2
+    },
+    {
+        "tour": 46,
+        "nb_lapins": 117,
+        "nb_renards": 2
+    },
+    {
+        "tour": 47,
+        "nb_lapins": 118,
+        "nb_renards": 2
+    },
+    {
+        "tour": 48,
+        "nb_lapins": 121,
+        "nb_renards": 2
+    },
+    {
+        "tour": 49,
+        "nb_lapins": 122,
+        "nb_renards": 2
+    },
+    {
+        "tour": 50,
+        "nb_lapins": 125,
+        "nb_renards": 2
+    },
+    {
+        "tour": 51,
+        "nb_lapins": 126,
+        "nb_renards": 2
+    },
+    {
+        "tour": 52,
+        "nb_lapins": 129,
+        "nb_renards": 2
+    },
+    {
+        "tour": 53,
+        "nb_lapins": 130,
+        "nb_renards": 2
+    },
+    {
+        "tour": 54,
+        "nb_lapins": 133,
+        "nb_renards": 2
+    },
+    {
+        "tour": 55,
+        "nb_lapins": 134,
+        "nb_renards": 2
+    },
+    {
+        "tour": 56,
+        "nb_lapins": 137,
+        "nb_renards": 2
+    },
+    {
+        "tour": 57,
+        "nb_lapins": 138,
+        "nb_renards": 2
+    },
+    {
+        "tour": 58,
+        "nb_lapins": 141,
+        "nb_renards": 2
+    },
+    {
+        "tour": 59,
+        "nb_lapins": 142,
+        "nb_renards": 2
+    },
+    {
+        "tour": 60,
+        "nb_lapins": 145,
+        "nb_renards": 2
+    },
+    {
+        "tour": 61,
+        "nb_lapins": 146,
+        "nb_renards": 2
+    },
+    {
+        "tour": 62,
+        "nb_lapins": 149,
+        "nb_renards": 2
+    },
+    {
+        "tour": 63,
+        "nb_lapins": 150,
+        "nb_renards": 3
+    },
+    {
+        "tour": 64,
+        "nb_lapins": 153,
+        "nb_renards": 3
+    },
+    {
+        "tour": 65,
+        "nb_lapins": 153,
+        "nb_renards": 3
+    },
+    {
+        "tour": 66,
+        "nb_lapins": 156,
+        "nb_renards": 3
+    },
+    {
+        "tour": 67,
+        "nb_lapins": 156,
+        "nb_renards": 3
+    },
+    {
+        "tour": 68,
+        "nb_lapins": 159,
+        "nb_renards": 3
+    },
+    {
+        "tour": 69,
+        "nb_lapins": 159,
+        "nb_renards": 3
+    },
+    {
+        "tour": 70,
+        "nb_lapins": 162,
+        "nb_renards": 3
+    },
+    {
+        "tour": 71,
+        "nb_lapins": 162,
+        "nb_renards": 3
+    },
+    {
+        "tour": 72,
+        "nb_lapins": 165,
+        "nb_renards": 3
+    },
+    {
+        "tour": 73,
+        "nb_lapins": 165,
+        "nb_renards": 3
+    },
+    {
+        "tour": 74,
+        "nb_lapins": 168,
+        "nb_renards": 3
+    },
+    {
+        "tour": 75,
+        "nb_lapins": 168,
+        "nb_renards": 3
+    },
+    {
+        "tour": 76,
+        "nb_lapins": 171,
+        "nb_renards": 3
+    },
+    {
+        "tour": 77,
+        "nb_lapins": 171,
+        "nb_renards": 3
+    },
+    {
+        "tour": 78,
+        "nb_lapins": 174,
+        "nb_renards": 3
+    },
+    {
+        "tour": 79,
+        "nb_lapins": 174,
+        "nb_renards": 3
+    },
+    {
+        "tour": 80,
+        "nb_lapins": 177,
+        "nb_renards": 3
+    },
+    {
+        "tour": 81,
+        "nb_lapins": 177,
+        "nb_renards": 3
+    },
+    {
+        "tour": 82,
+        "nb_lapins": 180,
+        "nb_renards": 3
+    },
+    {
+        "tour": 83,
+        "nb_lapins": 180,
+        "nb_renards": 4
+    },
+    {
+        "tour": 84,
+        "nb_lapins": 183,
+        "nb_renards": 4
+    },
+    {
+        "tour": 85,
+        "nb_lapins": 182,
+        "nb_renards": 4
+    },
+    {
+        "tour": 86,
+        "nb_lapins": 185,
+        "nb_renards": 4
+    },
+    {
+        "tour": 87,
+        "nb_lapins": 184,
+        "nb_renards": 5
+    },
+    {
+        "tour": 88,
+        "nb_lapins": 187,
+        "nb_renards": 5
+    },
+    {
+        "tour": 89,
+        "nb_lapins": 185,
+        "nb_renards": 5
+    },
+    {
+        "tour": 90,
+        "nb_lapins": 188,
+        "nb_renards": 5
+    },
+    {
+        "tour": 91,
+        "nb_lapins": 186,
+        "nb_renards": 5
+    },
+    {
+        "tour": 92,
+        "nb_lapins": 189,
+        "nb_renards": 5
+    },
+    {
+        "tour": 93,
+        "nb_lapins": 187,
+        "nb_renards": 5
+    },
+    {
+        "tour": 94,
+        "nb_lapins": 190,
+        "nb_renards": 5
+    },
+    {
+        "tour": 95,
+        "nb_lapins": 188,
+        "nb_renards": 5
+    },
+    {
+        "tour": 96,
+        "nb_lapins": 191,
+        "nb_renards": 5
+    },
+    {
+        "tour": 97,
+        "nb_lapins": 189,
+        "nb_renards": 5
+    },
+    {
+        "tour": 98,
+        "nb_lapins": 192,
+        "nb_renards": 5
+    },
+    {
+        "tour": 99,
+        "nb_lapins": 190,
+        "nb_renards": 5
+    },
+    {
+        "tour": 100,
+        "nb_lapins": 193,
+        "nb_renards": 5
+    },
+    {
+        "tour": 101,
+        "nb_lapins": 191,
+        "nb_renards": 5
+    },
+    {
+        "tour": 102,
+        "nb_lapins": 194,
+        "nb_renards": 5
+    },
+    {
+        "tour": 103,
+        "nb_lapins": 192,
+        "nb_renards": 6
+    },
+    {
+        "tour": 104,
+        "nb_lapins": 195,
+        "nb_renards": 6
+    },
+    {
+        "tour": 105,
+        "nb_lapins": 192,
+        "nb_renards": 6
+    },
+    {
+        "tour": 106,
+        "nb_lapins": 195,
+        "nb_renards": 6
+    },
+    {
+        "tour": 107,
+        "nb_lapins": 192,
+        "nb_renards": 8
+    },
+    {
+        "tour": 108,
+        "nb_lapins": 195,
+        "nb_renards": 8
+    },
+    {
+        "tour": 109,
+        "nb_lapins": 190,
+        "nb_renards": 8
+    },
+    {
+        "tour": 110,
+        "nb_lapins": 193,
+        "nb_renards": 8
+    },
+    {
+        "tour": 111,
+        "nb_lapins": 188,
+        "nb_renards": 8
+    },
+    {
+        "tour": 112,
+        "nb_lapins": 191,
+        "nb_renards": 8
+    },
+    {
+        "tour": 113,
+        "nb_lapins": 186,
+        "nb_renards": 8
+    },
+    {
+        "tour": 114,
+        "nb_lapins": 189,
+        "nb_renards": 8
+    },
+    {
+        "tour": 115,
+        "nb_lapins": 184,
+        "nb_renards": 8
+    },
+    {
+        "tour": 116,
+        "nb_lapins": 187,
+        "nb_renards": 8
+    },
+    {
+        "tour": 117,
+        "nb_lapins": 182,
+        "nb_renards": 8
+    },
+    {
+        "tour": 118,
+        "nb_lapins": 185,
+        "nb_renards": 8
+    },
+    {
+        "tour": 119,
+        "nb_lapins": 180,
+        "nb_renards": 8
+    },
+    {
+        "tour": 120,
+        "nb_lapins": 183,
+        "nb_renards": 8
+    },
+    {
+        "tour": 121,
+        "nb_lapins": 178,
+        "nb_renards": 8
+    },
+    {
+        "tour": 122,
+        "nb_lapins": 181,
+        "nb_renards": 8
+    },
+    {
+        "tour": 123,
+        "nb_lapins": 176,
+        "nb_renards": 9
+    },
+    {
+        "tour": 124,
+        "nb_lapins": 179,
+        "nb_renards": 9
+    },
+    {
+        "tour": 125,
+        "nb_lapins": 173,
+        "nb_renards": 9
+    },
+    {
+        "tour": 126,
+        "nb_lapins": 176,
+        "nb_renards": 9
+    },
+    {
+        "tour": 127,
+        "nb_lapins": 170,
+        "nb_renards": 12
+    },
+    {
+        "tour": 128,
+        "nb_lapins": 173,
+        "nb_renards": 12
+    },
+    {
+        "tour": 129,
+        "nb_lapins": 164,
+        "nb_renards": 12
+    },
+    {
+        "tour": 130,
+        "nb_lapins": 167,
+        "nb_renards": 12
+    },
+    {
+        "tour": 131,
+        "nb_lapins": 158,
+        "nb_renards": 13
+    },
+    {
+        "tour": 132,
+        "nb_lapins": 161,
+        "nb_renards": 13
+    },
+    {
+        "tour": 133,
+        "nb_lapins": 151,
+        "nb_renards": 13
+    },
+    {
+        "tour": 134,
+        "nb_lapins": 154,
+        "nb_renards": 13
+    },
+    {
+        "tour": 135,
+        "nb_lapins": 144,
+        "nb_renards": 13
+    },
+    {
+        "tour": 136,
+        "nb_lapins": 147,
+        "nb_renards": 13
+    },
+    {
+        "tour": 137,
+        "nb_lapins": 137,
+        "nb_renards": 13
+    },
+    {
+        "tour": 138,
+        "nb_lapins": 140,
+        "nb_renards": 13
+    },
+    {
+        "tour": 139,
+        "nb_lapins": 130,
+        "nb_renards": 13
+    },
+    {
+        "tour": 140,
+        "nb_lapins": 133,
+        "nb_renards": 13
+    },
+    {
+        "tour": 141,
+        "nb_lapins": 123,
+        "nb_renards": 13
+    },
+    {
+        "tour": 142,
+        "nb_lapins": 126,
+        "nb_renards": 13
+    },
+    {
+        "tour": 143,
+        "nb_lapins": 116,
+        "nb_renards": 14
+    },
+    {
+        "tour": 144,
+        "nb_lapins": 119,
+        "nb_renards": 14
+    },
+    {
+        "tour": 145,
+        "nb_lapins": 108,
+        "nb_renards": 14
+    },
+    {
+        "tour": 146,
+        "nb_lapins": 111,
+        "nb_renards": 14
+    },
+    {
+        "tour": 147,
+        "nb_lapins": 100,
+        "nb_renards": 18
+    },
+    {
+        "tour": 148,
+        "nb_lapins": 103,
+        "nb_renards": 18
+    },
+    {
+        "tour": 149,
+        "nb_lapins": 88,
+        "nb_renards": 18
+    },
+    {
+        "tour": 150,
+        "nb_lapins": 91,
+        "nb_renards": 18
+    },
+    {
+        "tour": 151,
+        "nb_lapins": 76,
+        "nb_renards": 21
+    },
+    {
+        "tour": 152,
+        "nb_lapins": 79,
+        "nb_renards": 21
+    },
+    {
+        "tour": 153,
+        "nb_lapins": 61,
+        "nb_renards": 21
+    },
+    {
+        "tour": 154,
+        "nb_lapins": 64,
+        "nb_renards": 21
+    },
+    {
+        "tour": 155,
+        "nb_lapins": 46,
+        "nb_renards": 21
+    },
+    {
+        "tour": 156,
+        "nb_lapins": 49,
+        "nb_renards": 21
+    },
+    {
+        "tour": 157,
+        "nb_lapins": 31,
+        "nb_renards": 21
+    },
+    {
+        "tour": 158,
+        "nb_lapins": 34,
+        "nb_renards": 21
+    },
+    {
+        "tour": 159,
+        "nb_lapins": 16,
+        "nb_renards": 21
+    },
+    {
+        "tour": 160,
+        "nb_lapins": 19,
+        "nb_renards": 21
+    },
+    {
+        "tour": 161,
+        "nb_lapins": 3,
+        "nb_renards": 21
+    },
+    {
+        "tour": 162,
+        "nb_lapins": 6,
+        "nb_renards": 21
+    },
+    {
+        "tour": 163,
+        "nb_lapins": 3,
+        "nb_renards": 22
+    },
+    {
+        "tour": 164,
+        "nb_lapins": 6,
+        "nb_renards": 22
+    },
+    {
+        "tour": 165,
+        "nb_lapins": 3,
+        "nb_renards": 22
+    },
+    {
+        "tour": 166,
+        "nb_lapins": 6,
+        "nb_renards": 22
+    },
+    {
+        "tour": 167,
+        "nb_lapins": 3,
+        "nb_renards": 26
+    },
+    {
+        "tour": 168,
+        "nb_lapins": 6,
+        "nb_renards": 26
+    },
+    {
+        "tour": 169,
+        "nb_lapins": 3,
+        "nb_renards": 26
+    },
+    {
+        "tour": 170,
+        "nb_lapins": 6,
+        "nb_renards": 26
+    },
+    {
+        "tour": 171,
+        "nb_lapins": 3,
+        "nb_renards": 27
+    },
+    {
+        "tour": 172,
+        "nb_lapins": 6,
+        "nb_renards": 27
+    },
+    {
+        "tour": 173,
+        "nb_lapins": 3,
+        "nb_renards": 27
+    },
+    {
+        "tour": 174,
+        "nb_lapins": 6,
+        "nb_renards": 27
+    },
+    {
+        "tour": 175,
+        "nb_lapins": 3,
+        "nb_renards": 27
+    },
+    {
+        "tour": 176,
+        "nb_lapins": 6,
+        "nb_renards": 27
+    },
+    {
+        "tour": 177,
+        "nb_lapins": 3,
+        "nb_renards": 27
+    },
+    {
+        "tour": 178,
+        "nb_lapins": 6,
+        "nb_renards": 27
+    },
+    {
+        "tour": 179,
+        "nb_lapins": 3,
+        "nb_renards": 27
+    },
+    {
+        "tour": 180,
+        "nb_lapins": 6,
+        "nb_renards": 27
+    },
+    {
+        "tour": 181,
+        "nb_lapins": 3,
+        "nb_renards": 27
+    },
+    {
+        "tour": 182,
+        "nb_lapins": 6,
+        "nb_renards": 27
+    },
+    {
+        "tour": 183,
+        "nb_lapins": 3,
+        "nb_renards": 28
+    },
+    {
+        "tour": 184,
+        "nb_lapins": 6,
+        "nb_renards": 28
+    },
+    {
+        "tour": 185,
+        "nb_lapins": 3,
+        "nb_renards": 28
+    },
+    {
+        "tour": 186,
+        "nb_lapins": 6,
+        "nb_renards": 28
+    },
+    {
+        "tour": 187,
+        "nb_lapins": 3,
+        "nb_renards": 32
+    },
+    {
+        "tour": 188,
+        "nb_lapins": 6,
+        "nb_renards": 32
+    },
+    {
+        "tour": 189,
+        "nb_lapins": 3,
+        "nb_renards": 32
+    },
+    {
+        "tour": 190,
+        "nb_lapins": 6,
+        "nb_renards": 32
+    },
+    {
+        "tour": 191,
+        "nb_lapins": 3,
+        "nb_renards": 33
+    },
+    {
+        "tour": 192,
+        "nb_lapins": 6,
+        "nb_renards": 33
+    },
+    {
+        "tour": 193,
+        "nb_lapins": 3,
+        "nb_renards": 33
+    },
+    {
+        "tour": 194,
+        "nb_lapins": 6,
+        "nb_renards": 33
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 5,
+        "nb_renards": 1
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 8,
+        "nb_renards": 1
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 10,
+        "nb_renards": 1
+    },
+    {
+        "tour": 4,
+        "nb_lapins": 13,
+        "nb_renards": 1
+    },
+    {
+        "tour": 5,
+        "nb_lapins": 15,
+        "nb_renards": 1
+    },
+    {
+        "tour": 6,
+        "nb_lapins": 18,
+        "nb_renards": 1
+    },
+    {
+        "tour": 7,
+        "nb_lapins": 20,
+        "nb_renards": 1
+    },
+    {
+        "tour": 8,
+        "nb_lapins": 23,
+        "nb_renards": 1
+    },
+    {
+        "tour": 9,
+        "nb_lapins": 25,
+        "nb_renards": 1
+    },
+    {
+        "tour": 10,
+        "nb_lapins": 28,
+        "nb_renards": 1
+    },
+    {
+        "tour": 11,
+        "nb_lapins": 30,
+        "nb_renards": 1
+    },
+    {
+        "tour": 12,
+        "nb_lapins": 33,
+        "nb_renards": 1
+    },
+    {
+        "tour": 13,
+        "nb_lapins": 35,
+        "nb_renards": 1
+    },
+    {
+        "tour": 14,
+        "nb_lapins": 38,
+        "nb_renards": 1
+    },
+    {
+        "tour": 15,
+        "nb_lapins": 40,
+        "nb_renards": 1
+    },
+    {
+        "tour": 16,
+        "nb_lapins": 43,
+        "nb_renards": 1
+    },
+    {
+        "tour": 17,
+        "nb_lapins": 45,
+        "nb_renards": 1
+    },
+    {
+        "tour": 18,
+        "nb_lapins": 48,
+        "nb_renards": 1
+    },
+    {
+        "tour": 19,
+        "nb_lapins": 50,
+        "nb_renards": 1
+    },
+    {
+        "tour": 20,
+        "nb_lapins": 53,
+        "nb_renards": 1
+    },
+    {
+        "tour": 21,
+        "nb_lapins": 55,
+        "nb_renards": 1
+    },
+    {
+        "tour": 22,
+        "nb_lapins": 58,
+        "nb_renards": 1
+    },
+    {
+        "tour": 23,
+        "nb_lapins": 60,
+        "nb_renards": 1
+    },
+    {
+        "tour": 24,
+        "nb_lapins": 63,
+        "nb_renards": 1
+    },
+    {
+        "tour": 25,
+        "nb_lapins": 65,
+        "nb_renards": 1
+    },
+    {
+        "tour": 26,
+        "nb_lapins": 68,
+        "nb_renards": 1
+    },
+    {
+        "tour": 27,
+        "nb_lapins": 70,
+        "nb_renards": 1
+    },
+    {
+        "tour": 28,
+        "nb_lapins": 73,
+        "nb_renards": 1
+    },
+    {
+        "tour": 29,
+        "nb_lapins": 75,
+        "nb_renards": 1
+    },
+    {
+        "tour": 30,
+        "nb_lapins": 78,
+        "nb_renards": 1
+    },
+    {
+        "tour": 31,
+        "nb_lapins": 80,
+        "nb_renards": 1
+    },
+    {
+        "tour": 32,
+        "nb_lapins": 83,
+        "nb_renards": 1
+    },
+    {
+        "tour": 33,
+        "nb_lapins": 85,
+        "nb_renards": 1
+    },
+    {
+        "tour": 34,
+        "nb_lapins": 88,
+        "nb_renards": 1
+    },
+    {
+        "tour": 35,
+        "nb_lapins": 90,
+        "nb_renards": 1
+    },
+    {
+        "tour": 36,
+        "nb_lapins": 93,
+        "nb_renards": 1
+    },
+    {
+        "tour": 37,
+        "nb_lapins": 95,
+        "nb_renards": 1
+    },
+    {
+        "tour": 38,
+        "nb_lapins": 98,
+        "nb_renards": 1
+    },
+    {
+        "tour": 39,
+        "nb_lapins": 100,
+        "nb_renards": 1
+    },
+    {
+        "tour": 40,
+        "nb_lapins": 103,
+        "nb_renards": 1
+    },
+    {
+        "tour": 41,
+        "nb_lapins": 105,
+        "nb_renards": 1
+    },
+    {
+        "tour": 42,
+        "nb_lapins": 108,
+        "nb_renards": 1
+    },
+    {
+        "tour": 43,
+        "nb_lapins": 110,
+        "nb_renards": 2
+    },
+    {
+        "tour": 44,
+        "nb_lapins": 113,
+        "nb_renards": 2
+    },
+    {
+        "tour": 45,
+        "nb_lapins": 114,
+        "nb_renards": 2
+    },
+    {
+        "tour": 46,
+        "nb_lapins": 117,
+        "nb_renards": 2
+    },
+    {
+        "tour": 47,
+        "nb_lapins": 118,
+        "nb_renards": 2
+    },
+    {
+        "tour": 48,
+        "nb_lapins": 121,
+        "nb_renards": 2
+    },
+    {
+        "tour": 49,
+        "nb_lapins": 122,
+        "nb_renards": 2
+    },
+    {
+        "tour": 50,
+        "nb_lapins": 125,
+        "nb_renards": 2
+    },
+    {
+        "tour": 51,
+        "nb_lapins": 126,
+        "nb_renards": 2
+    },
+    {
+        "tour": 52,
+        "nb_lapins": 129,
+        "nb_renards": 2
+    },
+    {
+        "tour": 53,
+        "nb_lapins": 130,
+        "nb_renards": 2
+    },
+    {
+        "tour": 54,
+        "nb_lapins": 133,
+        "nb_renards": 2
+    },
+    {
+        "tour": 55,
+        "nb_lapins": 134,
+        "nb_renards": 2
+    },
+    {
+        "tour": 56,
+        "nb_lapins": 137,
+        "nb_renards": 2
+    },
+    {
+        "tour": 57,
+        "nb_lapins": 138,
+        "nb_renards": 2
+    },
+    {
+        "tour": 58,
+        "nb_lapins": 141,
+        "nb_renards": 2
+    },
+    {
+        "tour": 59,
+        "nb_lapins": 142,
+        "nb_renards": 2
+    },
+    {
+        "tour": 60,
+        "nb_lapins": 145,
+        "nb_renards": 2
+    },
+    {
+        "tour": 61,
+        "nb_lapins": 146,
+        "nb_renards": 2
+    },
+    {
+        "tour": 62,
+        "nb_lapins": 149,
+        "nb_renards": 2
+    },
+    {
+        "tour": 63,
+        "nb_lapins": 150,
+        "nb_renards": 3
+    },
+    {
+        "tour": 64,
+        "nb_lapins": 153,
+        "nb_renards": 3
+    },
+    {
+        "tour": 65,
+        "nb_lapins": 153,
+        "nb_renards": 3
+    },
+    {
+        "tour": 66,
+        "nb_lapins": 156,
+        "nb_renards": 3
+    },
+    {
+        "tour": 67,
+        "nb_lapins": 156,
+        "nb_renards": 3
+    },
+    {
+        "tour": 68,
+        "nb_lapins": 159,
+        "nb_renards": 3
+    },
+    {
+        "tour": 69,
+        "nb_lapins": 159,
+        "nb_renards": 3
+    },
+    {
+        "tour": 70,
+        "nb_lapins": 162,
+        "nb_renards": 3
+    },
+    {
+        "tour": 71,
+        "nb_lapins": 162,
+        "nb_renards": 3
+    },
+    {
+        "tour": 72,
+        "nb_lapins": 165,
+        "nb_renards": 3
+    },
+    {
+        "tour": 73,
+        "nb_lapins": 165,
+        "nb_renards": 3
+    },
+    {
+        "tour": 74,
+        "nb_lapins": 168,
+        "nb_renards": 3
+    },
+    {
+        "tour": 75,
+        "nb_lapins": 168,
+        "nb_renards": 3
+    },
+    {
+        "tour": 76,
+        "nb_lapins": 171,
+        "nb_renards": 3
+    },
+    {
+        "tour": 77,
+        "nb_lapins": 171,
+        "nb_renards": 3
+    },
+    {
+        "tour": 78,
+        "nb_lapins": 174,
+        "nb_renards": 3
+    },
+    {
+        "tour": 79,
+        "nb_lapins": 174,
+        "nb_renards": 3
+    },
+    {
+        "tour": 80,
+        "nb_lapins": 177,
+        "nb_renards": 3
+    },
+    {
+        "tour": 81,
+        "nb_lapins": 177,
+        "nb_renards": 3
+    },
+    {
+        "tour": 82,
+        "nb_lapins": 180,
+        "nb_renards": 3
+    },
+    {
+        "tour": 83,
+        "nb_lapins": 180,
+        "nb_renards": 4
+    },
+    {
+        "tour": 84,
+        "nb_lapins": 183,
+        "nb_renards": 4
+    },
+    {
+        "tour": 85,
+        "nb_lapins": 182,
+        "nb_renards": 4
+    },
+    {
+        "tour": 86,
+        "nb_lapins": 185,
+        "nb_renards": 4
+    },
+    {
+        "tour": 87,
+        "nb_lapins": 184,
+        "nb_renards": 5
+    },
+    {
+        "tour": 88,
+        "nb_lapins": 187,
+        "nb_renards": 5
+    },
+    {
+        "tour": 89,
+        "nb_lapins": 185,
+        "nb_renards": 5
+    },
+    {
+        "tour": 90,
+        "nb_lapins": 188,
+        "nb_renards": 5
+    },
+    {
+        "tour": 91,
+        "nb_lapins": 186,
+        "nb_renards": 5
+    },
+    {
+        "tour": 92,
+        "nb_lapins": 189,
+        "nb_renards": 5
+    },
+    {
+        "tour": 93,
+        "nb_lapins": 187,
+        "nb_renards": 5
+    },
+    {
+        "tour": 94,
+        "nb_lapins": 190,
+        "nb_renards": 5
+    },
+    {
+        "tour": 95,
+        "nb_lapins": 188,
+        "nb_renards": 5
+    },
+    {
+        "tour": 96,
+        "nb_lapins": 191,
+        "nb_renards": 5
+    },
+    {
+        "tour": 97,
+        "nb_lapins": 189,
+        "nb_renards": 5
+    },
+    {
+        "tour": 98,
+        "nb_lapins": 192,
+        "nb_renards": 5
+    },
+    {
+        "tour": 99,
+        "nb_lapins": 190,
+        "nb_renards": 5
+    },
+    {
+        "tour": 100,
+        "nb_lapins": 193,
+        "nb_renards": 5
+    },
+    {
+        "tour": 101,
+        "nb_lapins": 191,
+        "nb_renards": 5
+    },
+    {
+        "tour": 102,
+        "nb_lapins": 194,
+        "nb_renards": 5
+    },
+    {
+        "tour": 103,
+        "nb_lapins": 192,
+        "nb_renards": 6
+    },
+    {
+        "tour": 104,
+        "nb_lapins": 195,
+        "nb_renards": 6
+    },
+    {
+        "tour": 105,
+        "nb_lapins": 192,
+        "nb_renards": 6
+    },
+    {
+        "tour": 106,
+        "nb_lapins": 195,
+        "nb_renards": 6
+    },
+    {
+        "tour": 107,
+        "nb_lapins": 192,
+        "nb_renards": 8
+    },
+    {
+        "tour": 108,
+        "nb_lapins": 195,
+        "nb_renards": 8
+    },
+    {
+        "tour": 109,
+        "nb_lapins": 190,
+        "nb_renards": 8
+    },
+    {
+        "tour": 110,
+        "nb_lapins": 193,
+        "nb_renards": 8
+    },
+    {
+        "tour": 111,
+        "nb_lapins": 188,
+        "nb_renards": 8
+    },
+    {
+        "tour": 112,
+        "nb_lapins": 191,
+        "nb_renards": 8
+    },
+    {
+        "tour": 113,
+        "nb_lapins": 186,
+        "nb_renards": 8
+    },
+    {
+        "tour": 114,
+        "nb_lapins": 189,
+        "nb_renards": 8
+    },
+    {
+        "tour": 115,
+        "nb_lapins": 184,
+        "nb_renards": 8
+    },
+    {
+        "tour": 116,
+        "nb_lapins": 187,
+        "nb_renards": 8
+    },
+    {
+        "tour": 117,
+        "nb_lapins": 182,
+        "nb_renards": 8
+    },
+    {
+        "tour": 118,
+        "nb_lapins": 185,
+        "nb_renards": 8
+    },
+    {
+        "tour": 119,
+        "nb_lapins": 180,
+        "nb_renards": 8
+    },
+    {
+        "tour": 120,
+        "nb_lapins": 183,
+        "nb_renards": 8
+    },
+    {
+        "tour": 121,
+        "nb_lapins": 178,
+        "nb_renards": 8
+    },
+    {
+        "tour": 122,
+        "nb_lapins": 181,
+        "nb_renards": 8
+    },
+    {
+        "tour": 123,
+        "nb_lapins": 176,
+        "nb_renards": 9
+    },
+    {
+        "tour": 124,
+        "nb_lapins": 179,
+        "nb_renards": 9
+    },
+    {
+        "tour": 125,
+        "nb_lapins": 173,
+        "nb_renards": 9
+    },
+    {
+        "tour": 126,
+        "nb_lapins": 176,
+        "nb_renards": 9
+    },
+    {
+        "tour": 127,
+        "nb_lapins": 170,
+        "nb_renards": 12
+    },
+    {
+        "tour": 128,
+        "nb_lapins": 173,
+        "nb_renards": 12
+    },
+    {
+        "tour": 129,
+        "nb_lapins": 164,
+        "nb_renards": 12
+    },
+    {
+        "tour": 130,
+        "nb_lapins": 167,
+        "nb_renards": 12
+    },
+    {
+        "tour": 131,
+        "nb_lapins": 158,
+        "nb_renards": 13
+    },
+    {
+        "tour": 132,
+        "nb_lapins": 161,
+        "nb_renards": 13
+    },
+    {
+        "tour": 133,
+        "nb_lapins": 151,
+        "nb_renards": 13
+    },
+    {
+        "tour": 134,
+        "nb_lapins": 154,
+        "nb_renards": 13
+    },
+    {
+        "tour": 135,
+        "nb_lapins": 144,
+        "nb_renards": 13
+    },
+    {
+        "tour": 136,
+        "nb_lapins": 147,
+        "nb_renards": 13
+    },
+    {
+        "tour": 137,
+        "nb_lapins": 137,
+        "nb_renards": 13
+    },
+    {
+        "tour": 138,
+        "nb_lapins": 140,
+        "nb_renards": 13
+    },
+    {
+        "tour": 139,
+        "nb_lapins": 130,
+        "nb_renards": 13
+    },
+    {
+        "tour": 140,
+        "nb_lapins": 133,
+        "nb_renards": 13
+    },
+    {
+        "tour": 141,
+        "nb_lapins": 123,
+        "nb_renards": 13
+    },
+    {
+        "tour": 142,
+        "nb_lapins": 126,
+        "nb_renards": 13
+    },
+    {
+        "tour": 143,
+        "nb_lapins": 116,
+        "nb_renards": 14
+    },
+    {
+        "tour": 144,
+        "nb_lapins": 119,
+        "nb_renards": 14
+    },
+    {
+        "tour": 145,
+        "nb_lapins": 108,
+        "nb_renards": 14
+    },
+    {
+        "tour": 146,
+        "nb_lapins": 111,
+        "nb_renards": 14
+    },
+    {
+        "tour": 147,
+        "nb_lapins": 100,
+        "nb_renards": 18
+    },
+    {
+        "tour": 148,
+        "nb_lapins": 103,
+        "nb_renards": 18
+    },
+    {
+        "tour": 149,
+        "nb_lapins": 88,
+        "nb_renards": 18
+    },
+    {
+        "tour": 150,
+        "nb_lapins": 91,
+        "nb_renards": 18
+    },
+    {
+        "tour": 151,
+        "nb_lapins": 76,
+        "nb_renards": 21
+    },
+    {
+        "tour": 152,
+        "nb_lapins": 79,
+        "nb_renards": 21
+    },
+    {
+        "tour": 153,
+        "nb_lapins": 61,
+        "nb_renards": 21
+    },
+    {
+        "tour": 154,
+        "nb_lapins": 64,
+        "nb_renards": 21
+    },
+    {
+        "tour": 155,
+        "nb_lapins": 46,
+        "nb_renards": 21
+    },
+    {
+        "tour": 156,
+        "nb_lapins": 49,
+        "nb_renards": 21
+    },
+    {
+        "tour": 157,
+        "nb_lapins": 31,
+        "nb_renards": 21
+    },
+    {
+        "tour": 158,
+        "nb_lapins": 34,
+        "nb_renards": 21
+    },
+    {
+        "tour": 159,
+        "nb_lapins": 16,
+        "nb_renards": 21
+    },
+    {
+        "tour": 160,
+        "nb_lapins": 19,
+        "nb_renards": 21
+    },
+    {
+        "tour": 161,
+        "nb_lapins": 3,
+        "nb_renards": 21
+    },
+    {
+        "tour": 162,
+        "nb_lapins": 6,
+        "nb_renards": 21
+    },
+    {
+        "tour": 163,
+        "nb_lapins": 3,
+        "nb_renards": 22
+    },
+    {
+        "tour": 164,
+        "nb_lapins": 6,
+        "nb_renards": 22
+    },
+    {
+        "tour": 165,
+        "nb_lapins": 3,
+        "nb_renards": 22
+    },
+    {
+        "tour": 166,
+        "nb_lapins": 6,
+        "nb_renards": 22
+    },
+    {
+        "tour": 167,
+        "nb_lapins": 3,
+        "nb_renards": 26
+    },
+    {
+        "tour": 168,
+        "nb_lapins": 6,
+        "nb_renards": 26
+    },
+    {
+        "tour": 169,
+        "nb_lapins": 3,
+        "nb_renards": 26
+    },
+    {
+        "tour": 170,
+        "nb_lapins": 6,
+        "nb_renards": 26
+    },
+    {
+        "tour": 171,
+        "nb_lapins": 3,
+        "nb_renards": 27
+    },
+    {
+        "tour": 172,
+        "nb_lapins": 6,
+        "nb_renards": 27
+    },
+    {
+        "tour": 173,
+        "nb_lapins": 3,
+        "nb_renards": 27
+    },
+    {
+        "tour": 174,
+        "nb_lapins": 6,
+        "nb_renards": 27
+    },
+    {
+        "tour": 175,
+        "nb_lapins": 3,
+        "nb_renards": 27
+    },
+    {
+        "tour": 176,
+        "nb_lapins": 6,
+        "nb_renards": 27
+    },
+    {
+        "tour": 177,
+        "nb_lapins": 3,
+        "nb_renards": 27
+    },
+    {
+        "tour": 178,
+        "nb_lapins": 6,
+        "nb_renards": 27
+    },
+    {
+        "tour": 179,
+        "nb_lapins": 3,
+        "nb_renards": 27
+    },
+    {
+        "tour": 180,
+        "nb_lapins": 6,
+        "nb_renards": 27
+    },
+    {
+        "tour": 181,
+        "nb_lapins": 3,
+        "nb_renards": 27
+    },
+    {
+        "tour": 182,
+        "nb_lapins": 6,
+        "nb_renards": 27
+    },
+    {
+        "tour": 183,
+        "nb_lapins": 3,
+        "nb_renards": 28
+    },
+    {
+        "tour": 184,
+        "nb_lapins": 6,
+        "nb_renards": 28
+    },
+    {
+        "tour": 185,
+        "nb_lapins": 3,
+        "nb_renards": 28
+    },
+    {
+        "tour": 186,
+        "nb_lapins": 6,
+        "nb_renards": 28
+    },
+    {
+        "tour": 187,
+        "nb_lapins": 3,
+        "nb_renards": 32
+    },
+    {
+        "tour": 188,
+        "nb_lapins": 6,
+        "nb_renards": 32
+    },
+    {
+        "tour": 189,
+        "nb_lapins": 3,
+        "nb_renards": 32
+    },
+    {
+        "tour": 190,
+        "nb_lapins": 6,
+        "nb_renards": 32
+    },
+    {
+        "tour": 191,
+        "nb_lapins": 3,
+        "nb_renards": 33
+    },
+    {
+        "tour": 192,
+        "nb_lapins": 6,
+        "nb_renards": 33
+    },
+    {
+        "tour": 193,
+        "nb_lapins": 3,
+        "nb_renards": 33
+    },
+    {
+        "tour": 194,
+        "nb_lapins": 6,
+        "nb_renards": 33
+    },
+    {
+        "tour": 195,
+        "nb_lapins": 3,
+        "nb_renards": 33
+    },
+    {
+        "tour": 196,
+        "nb_lapins": 6,
+        "nb_renards": 33
+    },
+    {
+        "tour": 197,
+        "nb_lapins": 3,
+        "nb_renards": 33
+    },
+    {
+        "tour": 198,
+        "nb_lapins": 6,
+        "nb_renards": 33
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 6,
+        "nb_renards": 1
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 5,
+        "nb_renards": 1
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 8,
+        "nb_renards": 1
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 11,
+        "nb_renards": 1
+    },
+    {
+        "tour": 4,
+        "nb_lapins": 14,
+        "nb_renards": 1
+    },
+    {
+        "tour": 5,
+        "nb_lapins": 17,
+        "nb_renards": 1
+    },
+    {
+        "tour": 6,
+        "nb_lapins": 20,
+        "nb_renards": 1
+    },
+    {
+        "tour": 7,
+        "nb_lapins": 23,
+        "nb_renards": 1
+    },
+    {
+        "tour": 8,
+        "nb_lapins": 26,
+        "nb_renards": 1
+    },
+    {
+        "tour": 9,
+        "nb_lapins": 29,
+        "nb_renards": 1
+    },
+    {
+        "tour": 10,
+        "nb_lapins": 32,
+        "nb_renards": 1
+    },
+    {
+        "tour": 11,
+        "nb_lapins": 35,
+        "nb_renards": 1
+    },
+    {
+        "tour": 12,
+        "nb_lapins": 38,
+        "nb_renards": 1
+    },
+    {
+        "tour": 13,
+        "nb_lapins": 41,
+        "nb_renards": 1
+    },
+    {
+        "tour": 14,
+        "nb_lapins": 44,
+        "nb_renards": 1
+    },
+    {
+        "tour": 15,
+        "nb_lapins": 47,
+        "nb_renards": 1
+    },
+    {
+        "tour": 16,
+        "nb_lapins": 50,
+        "nb_renards": 1
+    },
+    {
+        "tour": 17,
+        "nb_lapins": 53,
+        "nb_renards": 1
+    },
+    {
+        "tour": 18,
+        "nb_lapins": 56,
+        "nb_renards": 1
+    },
+    {
+        "tour": 19,
+        "nb_lapins": 59,
+        "nb_renards": 1
+    },
+    {
+        "tour": 20,
+        "nb_lapins": 62,
+        "nb_renards": 1
+    },
+    {
+        "tour": 21,
+        "nb_lapins": 65,
+        "nb_renards": 1
+    },
+    {
+        "tour": 22,
+        "nb_lapins": 68,
+        "nb_renards": 1
+    },
+    {
+        "tour": 23,
+        "nb_lapins": 71,
+        "nb_renards": 1
+    },
+    {
+        "tour": 24,
+        "nb_lapins": 74,
+        "nb_renards": 1
+    },
+    {
+        "tour": 25,
+        "nb_lapins": 77,
+        "nb_renards": 1
+    },
+    {
+        "tour": 26,
+        "nb_lapins": 80,
+        "nb_renards": 1
+    },
+    {
+        "tour": 27,
+        "nb_lapins": 83,
+        "nb_renards": 1
+    },
+    {
+        "tour": 28,
+        "nb_lapins": 86,
+        "nb_renards": 1
+    },
+    {
+        "tour": 29,
+        "nb_lapins": 89,
+        "nb_renards": 1
+    },
+    {
+        "tour": 30,
+        "nb_lapins": 92,
+        "nb_renards": 1
+    },
+    {
+        "tour": 31,
+        "nb_lapins": 95,
+        "nb_renards": 1
+    },
+    {
+        "tour": 32,
+        "nb_lapins": 98,
+        "nb_renards": 1
+    },
+    {
+        "tour": 33,
+        "nb_lapins": 101,
+        "nb_renards": 1
+    },
+    {
+        "tour": 34,
+        "nb_lapins": 104,
+        "nb_renards": 1
+    },
+    {
+        "tour": 35,
+        "nb_lapins": 107,
+        "nb_renards": 1
+    },
+    {
+        "tour": 36,
+        "nb_lapins": 110,
+        "nb_renards": 1
+    },
+    {
+        "tour": 37,
+        "nb_lapins": 113,
+        "nb_renards": 1
+    },
+    {
+        "tour": 38,
+        "nb_lapins": 116,
+        "nb_renards": 1
+    },
+    {
+        "tour": 39,
+        "nb_lapins": 119,
+        "nb_renards": 1
+    },
+    {
+        "tour": 40,
+        "nb_lapins": 122,
+        "nb_renards": 1
+    },
+    {
+        "tour": 41,
+        "nb_lapins": 125,
+        "nb_renards": 1
+    },
+    {
+        "tour": 42,
+        "nb_lapins": 128,
+        "nb_renards": 1
+    },
+    {
+        "tour": 43,
+        "nb_lapins": 131,
+        "nb_renards": 1
+    },
+    {
+        "tour": 44,
+        "nb_lapins": 134,
+        "nb_renards": 1
+    },
+    {
+        "tour": 45,
+        "nb_lapins": 137,
+        "nb_renards": 1
+    },
+    {
+        "tour": 46,
+        "nb_lapins": 140,
+        "nb_renards": 1
+    },
+    {
+        "tour": 47,
+        "nb_lapins": 143,
+        "nb_renards": 1
+    },
+    {
+        "tour": 48,
+        "nb_lapins": 146,
+        "nb_renards": 1
+    },
+    {
+        "tour": 49,
+        "nb_lapins": 149,
+        "nb_renards": 1
+    },
+    {
+        "tour": 50,
+        "nb_lapins": 152,
+        "nb_renards": 1
+    },
+    {
+        "tour": 51,
+        "nb_lapins": 155,
+        "nb_renards": 1
+    },
+    {
+        "tour": 52,
+        "nb_lapins": 158,
+        "nb_renards": 1
+    },
+    {
+        "tour": 53,
+        "nb_lapins": 161,
+        "nb_renards": 1
+    },
+    {
+        "tour": 54,
+        "nb_lapins": 164,
+        "nb_renards": 1
+    },
+    {
+        "tour": 55,
+        "nb_lapins": 167,
+        "nb_renards": 1
+    },
+    {
+        "tour": 56,
+        "nb_lapins": 170,
+        "nb_renards": 1
+    },
+    {
+        "tour": 57,
+        "nb_lapins": 173,
+        "nb_renards": 1
+    },
+    {
+        "tour": 58,
+        "nb_lapins": 176,
+        "nb_renards": 1
+    },
+    {
+        "tour": 59,
+        "nb_lapins": 179,
+        "nb_renards": 1
+    },
+    {
+        "tour": 60,
+        "nb_lapins": 182,
+        "nb_renards": 1
+    },
+    {
+        "tour": 61,
+        "nb_lapins": 185,
+        "nb_renards": 1
+    },
+    {
+        "tour": 62,
+        "nb_lapins": 188,
+        "nb_renards": 1
+    },
+    {
+        "tour": 63,
+        "nb_lapins": 191,
+        "nb_renards": 1
+    },
+    {
+        "tour": 64,
+        "nb_lapins": 194,
+        "nb_renards": 1
+    },
+    {
+        "tour": 65,
+        "nb_lapins": 197,
+        "nb_renards": 1
+    },
+    {
+        "tour": 66,
+        "nb_lapins": 200,
+        "nb_renards": 1
+    },
+    {
+        "tour": 67,
+        "nb_lapins": 203,
+        "nb_renards": 1
+    },
+    {
+        "tour": 68,
+        "nb_lapins": 206,
+        "nb_renards": 1
+    },
+    {
+        "tour": 69,
+        "nb_lapins": 209,
+        "nb_renards": 1
+    },
+    {
+        "tour": 70,
+        "nb_lapins": 212,
+        "nb_renards": 1
+    },
+    {
+        "tour": 71,
+        "nb_lapins": 215,
+        "nb_renards": 1
+    },
+    {
+        "tour": 72,
+        "nb_lapins": 218,
+        "nb_renards": 1
+    },
+    {
+        "tour": 73,
+        "nb_lapins": 221,
+        "nb_renards": 1
+    },
+    {
+        "tour": 74,
+        "nb_lapins": 224,
+        "nb_renards": 1
+    },
+    {
+        "tour": 75,
+        "nb_lapins": 227,
+        "nb_renards": 1
+    },
+    {
+        "tour": 76,
+        "nb_lapins": 230,
+        "nb_renards": 1
+    },
+    {
+        "tour": 77,
+        "nb_lapins": 233,
+        "nb_renards": 1
+    },
+    {
+        "tour": 78,
+        "nb_lapins": 236,
+        "nb_renards": 1
+    },
+    {
+        "tour": 79,
+        "nb_lapins": 239,
+        "nb_renards": 1
+    },
+    {
+        "tour": 80,
+        "nb_lapins": 242,
+        "nb_renards": 1
+    },
+    {
+        "tour": 81,
+        "nb_lapins": 245,
+        "nb_renards": 1
+    },
+    {
+        "tour": 82,
+        "nb_lapins": 248,
+        "nb_renards": 1
+    },
+    {
+        "tour": 83,
+        "nb_lapins": 251,
+        "nb_renards": 1
+    },
+    {
+        "tour": 84,
+        "nb_lapins": 254,
+        "nb_renards": 1
+    },
+    {
+        "tour": 85,
+        "nb_lapins": 257,
+        "nb_renards": 1
+    },
+    {
+        "tour": 86,
+        "nb_lapins": 260,
+        "nb_renards": 1
+    },
+    {
+        "tour": 87,
+        "nb_lapins": 263,
+        "nb_renards": 1
+    },
+    {
+        "tour": 88,
+        "nb_lapins": 266,
+        "nb_renards": 1
+    },
+    {
+        "tour": 89,
+        "nb_lapins": 269,
+        "nb_renards": 1
+    },
+    {
+        "tour": 90,
+        "nb_lapins": 272,
+        "nb_renards": 1
+    },
+    {
+        "tour": 91,
+        "nb_lapins": 275,
+        "nb_renards": 1
+    },
+    {
+        "tour": 92,
+        "nb_lapins": 278,
+        "nb_renards": 1
+    },
+    {
+        "tour": 93,
+        "nb_lapins": 281,
+        "nb_renards": 1
+    },
+    {
+        "tour": 94,
+        "nb_lapins": 284,
+        "nb_renards": 1
+    },
+    {
+        "tour": 95,
+        "nb_lapins": 287,
+        "nb_renards": 1
+    },
+    {
+        "tour": 96,
+        "nb_lapins": 290,
+        "nb_renards": 1
+    },
+    {
+        "tour": 97,
+        "nb_lapins": 293,
+        "nb_renards": 1
+    },
+    {
+        "tour": 98,
+        "nb_lapins": 296,
+        "nb_renards": 1
+    },
+    {
+        "tour": 99,
+        "nb_lapins": 299,
+        "nb_renards": 1
+    },
+    {
+        "tour": 100,
+        "nb_lapins": 302,
+        "nb_renards": 1
+    },
+    {
+        "tour": 101,
+        "nb_lapins": 305,
+        "nb_renards": 1
+    },
+    {
+        "tour": 102,
+        "nb_lapins": 308,
+        "nb_renards": 1
+    },
+    {
+        "tour": 103,
+        "nb_lapins": 311,
+        "nb_renards": 1
+    },
+    {
+        "tour": 104,
+        "nb_lapins": 314,
+        "nb_renards": 1
+    },
+    {
+        "tour": 105,
+        "nb_lapins": 317,
+        "nb_renards": 1
+    },
+    {
+        "tour": 106,
+        "nb_lapins": 320,
+        "nb_renards": 1
+    },
+    {
+        "tour": 107,
+        "nb_lapins": 323,
+        "nb_renards": 1
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 6,
+        "nb_renards": 1
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 9,
+        "nb_renards": 1
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 12,
+        "nb_renards": 1
+    },
+    {
+        "tour": 4,
+        "nb_lapins": 15,
+        "nb_renards": 1
+    },
+    {
+        "tour": 5,
+        "nb_lapins": 18,
+        "nb_renards": 1
+    },
+    {
+        "tour": 6,
+        "nb_lapins": 21,
+        "nb_renards": 1
+    },
+    {
+        "tour": 7,
+        "nb_lapins": 24,
+        "nb_renards": 1
+    },
+    {
+        "tour": 8,
+        "nb_lapins": 27,
+        "nb_renards": 1
+    },
+    {
+        "tour": 9,
+        "nb_lapins": 30,
+        "nb_renards": 1
+    },
+    {
+        "tour": 10,
+        "nb_lapins": 33,
+        "nb_renards": 1
+    },
+    {
+        "tour": 11,
+        "nb_lapins": 36,
+        "nb_renards": 1
+    },
+    {
+        "tour": 12,
+        "nb_lapins": 39,
+        "nb_renards": 1
+    },
+    {
+        "tour": 13,
+        "nb_lapins": 42,
+        "nb_renards": 1
+    },
+    {
+        "tour": 14,
+        "nb_lapins": 45,
+        "nb_renards": 1
+    },
+    {
+        "tour": 15,
+        "nb_lapins": 48,
+        "nb_renards": 1
+    },
+    {
+        "tour": 16,
+        "nb_lapins": 51,
+        "nb_renards": 1
+    },
+    {
+        "tour": 17,
+        "nb_lapins": 54,
+        "nb_renards": 1
+    },
+    {
+        "tour": 18,
+        "nb_lapins": 57,
+        "nb_renards": 1
+    },
+    {
+        "tour": 19,
+        "nb_lapins": 60,
+        "nb_renards": 1
+    },
+    {
+        "tour": 20,
+        "nb_lapins": 63,
+        "nb_renards": 1
+    },
+    {
+        "tour": 21,
+        "nb_lapins": 66,
+        "nb_renards": 1
+    },
+    {
+        "tour": 22,
+        "nb_lapins": 69,
+        "nb_renards": 1
+    },
+    {
+        "tour": 23,
+        "nb_lapins": 72,
+        "nb_renards": 1
+    },
+    {
+        "tour": 24,
+        "nb_lapins": 75,
+        "nb_renards": 1
+    },
+    {
+        "tour": 25,
+        "nb_lapins": 78,
+        "nb_renards": 1
+    },
+    {
+        "tour": 26,
+        "nb_lapins": 81,
+        "nb_renards": 1
+    },
+    {
+        "tour": 27,
+        "nb_lapins": 84,
+        "nb_renards": 1
+    },
+    {
+        "tour": 28,
+        "nb_lapins": 87,
+        "nb_renards": 1
+    },
+    {
+        "tour": 29,
+        "nb_lapins": 90,
+        "nb_renards": 1
+    },
+    {
+        "tour": 30,
+        "nb_lapins": 93,
+        "nb_renards": 1
+    },
+    {
+        "tour": 31,
+        "nb_lapins": 96,
+        "nb_renards": 1
+    },
+    {
+        "tour": 32,
+        "nb_lapins": 99,
+        "nb_renards": 1
+    },
+    {
+        "tour": 33,
+        "nb_lapins": 102,
+        "nb_renards": 1
+    },
+    {
+        "tour": 34,
+        "nb_lapins": 105,
+        "nb_renards": 1
+    },
+    {
+        "tour": 35,
+        "nb_lapins": 108,
+        "nb_renards": 1
+    },
+    {
+        "tour": 36,
+        "nb_lapins": 111,
+        "nb_renards": 1
+    },
+    {
+        "tour": 37,
+        "nb_lapins": 114,
+        "nb_renards": 1
+    },
+    {
+        "tour": 38,
+        "nb_lapins": 117,
+        "nb_renards": 1
+    },
+    {
+        "tour": 39,
+        "nb_lapins": 120,
+        "nb_renards": 1
+    },
+    {
+        "tour": 40,
+        "nb_lapins": 123,
+        "nb_renards": 1
+    },
+    {
+        "tour": 41,
+        "nb_lapins": 126,
+        "nb_renards": 1
+    },
+    {
+        "tour": 42,
+        "nb_lapins": 129,
+        "nb_renards": 1
+    },
+    {
+        "tour": 43,
+        "nb_lapins": 132,
+        "nb_renards": 1
+    },
+    {
+        "tour": 44,
+        "nb_lapins": 135,
+        "nb_renards": 1
+    },
+    {
+        "tour": 45,
+        "nb_lapins": 138,
+        "nb_renards": 1
+    },
+    {
+        "tour": 46,
+        "nb_lapins": 141,
+        "nb_renards": 1
+    },
+    {
+        "tour": 47,
+        "nb_lapins": 144,
+        "nb_renards": 1
+    },
+    {
+        "tour": 48,
+        "nb_lapins": 147,
+        "nb_renards": 1
+    },
+    {
+        "tour": 49,
+        "nb_lapins": 150,
+        "nb_renards": 1
+    },
+    {
+        "tour": 50,
+        "nb_lapins": 153,
+        "nb_renards": 1
+    },
+    {
+        "tour": 51,
+        "nb_lapins": 156,
+        "nb_renards": 1
+    },
+    {
+        "tour": 52,
+        "nb_lapins": 159,
+        "nb_renards": 1
+    },
+    {
+        "tour": 53,
+        "nb_lapins": 162,
+        "nb_renards": 1
+    },
+    {
+        "tour": 54,
+        "nb_lapins": 165,
+        "nb_renards": 1
+    },
+    {
+        "tour": 55,
+        "nb_lapins": 168,
+        "nb_renards": 1
+    },
+    {
+        "tour": 56,
+        "nb_lapins": 171,
+        "nb_renards": 1
+    },
+    {
+        "tour": 57,
+        "nb_lapins": 174,
+        "nb_renards": 1
+    },
+    {
+        "tour": 58,
+        "nb_lapins": 177,
+        "nb_renards": 1
+    },
+    {
+        "tour": 59,
+        "nb_lapins": 180,
+        "nb_renards": 1
+    },
+    {
+        "tour": 60,
+        "nb_lapins": 183,
+        "nb_renards": 1
+    },
+    {
+        "tour": 61,
+        "nb_lapins": 186,
+        "nb_renards": 1
+    },
+    {
+        "tour": 62,
+        "nb_lapins": 189,
+        "nb_renards": 1
+    },
+    {
+        "tour": 63,
+        "nb_lapins": 192,
+        "nb_renards": 1
+    },
+    {
+        "tour": 64,
+        "nb_lapins": 195,
+        "nb_renards": 1
+    },
+    {
+        "tour": 65,
+        "nb_lapins": 198,
+        "nb_renards": 1
+    },
+    {
+        "tour": 66,
+        "nb_lapins": 201,
+        "nb_renards": 1
+    },
+    {
+        "tour": 67,
+        "nb_lapins": 204,
+        "nb_renards": 1
+    },
+    {
+        "tour": 68,
+        "nb_lapins": 207,
+        "nb_renards": 1
+    },
+    {
+        "tour": 69,
+        "nb_lapins": 210,
+        "nb_renards": 1
+    },
+    {
+        "tour": 70,
+        "nb_lapins": 213,
+        "nb_renards": 1
+    },
+    {
+        "tour": 71,
+        "nb_lapins": 216,
+        "nb_renards": 1
+    },
+    {
+        "tour": 72,
+        "nb_lapins": 219,
+        "nb_renards": 1
+    },
+    {
+        "tour": 73,
+        "nb_lapins": 222,
+        "nb_renards": 1
+    },
+    {
+        "tour": 74,
+        "nb_lapins": 225,
+        "nb_renards": 1
+    },
+    {
+        "tour": 75,
+        "nb_lapins": 228,
+        "nb_renards": 1
+    },
+    {
+        "tour": 76,
+        "nb_lapins": 231,
+        "nb_renards": 1
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 2,
+        "nb_renards": 1
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 1,
+        "nb_renards": 1
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 0,
+        "nb_renards": 1
+    },
+    {
+        "tour": 4,
+        "nb_lapins": 0,
+        "nb_renards": 2
+    },
+    {
+        "tour": 5,
+        "nb_lapins": 0,
+        "nb_renards": 2
+    },
+    {
+        "tour": 6,
+        "nb_lapins": 0,
+        "nb_renards": 2
+    },
+    {
+        "tour": 7,
+        "nb_lapins": 0,
+        "nb_renards": 2
+    },
+    {
+        "tour": 8,
+        "nb_lapins": 0,
+        "nb_renards": 2
+    },
+    {
+        "tour": 9,
+        "nb_lapins": 0,
+        "nb_renards": 2
+    },
+    {
+        "tour": 10,
+        "nb_lapins": 0,
+        "nb_renards": 2
+    },
+    {
+        "tour": 11,
+        "nb_lapins": 0,
+        "nb_renards": 2
+    },
+    {
+        "tour": 12,
+        "nb_lapins": 0,
+        "nb_renards": 2
+    },
+    {
+        "tour": 13,
+        "nb_lapins": 0,
+        "nb_renards": 2
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 2,
+        "nb_renards": 1
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 1,
+        "nb_renards": 1
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 0,
+        "nb_renards": 1
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 8,
+        "nb_renards": 2
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 6,
+        "nb_renards": 2
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 10,
+        "nb_renards": 2
+    },
+    {
+        "tour": 4,
+        "nb_lapins": 12,
+        "nb_renards": 4
+    },
+    {
+        "tour": 5,
+        "nb_lapins": 10,
+        "nb_renards": 4
+    },
+    {
+        "tour": 6,
+        "nb_lapins": 8,
+        "nb_renards": 6
+    },
+    {
+        "tour": 7,
+        "nb_lapins": 4,
+        "nb_renards": 6
+    },
+    {
+        "tour": 8,
+        "nb_lapins": 0,
+        "nb_renards": 10
+    },
+    {
+        "tour": 9,
+        "nb_lapins": 0,
+        "nb_renards": 10
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 9,
+        "nb_renards": 2
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 7,
+        "nb_renards": 2
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 34,
+        "nb_renards": 2
+    },
+    {
+        "tour": 4,
+        "nb_lapins": 56,
+        "nb_renards": 4
+    },
+    {
+        "tour": 5,
+        "nb_lapins": 70,
+        "nb_renards": 4
+    },
+    {
+        "tour": 6,
+        "nb_lapins": 186,
+        "nb_renards": 4
+    },
+    {
+        "tour": 7,
+        "nb_lapins": 374,
+        "nb_renards": 6
+    },
+    {
+        "tour": 8,
+        "nb_lapins": 618,
+        "nb_renards": 8
+    },
+    {
+        "tour": 9,
+        "nb_lapins": 1320,
+        "nb_renards": 8
+    },
+    {
+        "tour": 10,
+        "nb_lapins": 2760,
+        "nb_renards": 10
+    },
+    {
+        "tour": 11,
+        "nb_lapins": 5158,
+        "nb_renards": 14
+    },
+    {
+        "tour": 12,
+        "nb_lapins": 10346,
+        "nb_renards": 16
+    },
+    {
+        "tour": 13,
+        "nb_lapins": 21280,
+        "nb_renards": 18
+    },
+    {
+        "tour": 14,
+        "nb_lapins": 41780,
+        "nb_renards": 24
+    },
+    {
+        "tour": 15,
+        "nb_lapins": 83010,
+        "nb_renards": 30
+    },
+    {
+        "tour": 16,
+        "nb_lapins": 167967,
+        "nb_renards": 34
+    },
+    {
+        "tour": 17,
+        "nb_lapins": 334900,
+        "nb_renards": 42
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 8,
+        "nb_renards": 2
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 6,
+        "nb_renards": 2
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 16,
+        "nb_renards": 2
+    },
+    {
+        "tour": 4,
+        "nb_lapins": 22,
+        "nb_renards": 4
+    },
+    {
+        "tour": 5,
+        "nb_lapins": 23,
+        "nb_renards": 4
+    },
+    {
+        "tour": 6,
+        "nb_lapins": 40,
+        "nb_renards": 4
+    },
+    {
+        "tour": 7,
+        "nb_lapins": 71,
+        "nb_renards": 6
+    },
+    {
+        "tour": 8,
+        "nb_lapins": 101,
+        "nb_renards": 8
+    },
+    {
+        "tour": 9,
+        "nb_lapins": 164,
+        "nb_renards": 8
+    },
+    {
+        "tour": 10,
+        "nb_lapins": 280,
+        "nb_renards": 10
+    },
+    {
+        "tour": 11,
+        "nb_lapins": 450,
+        "nb_renards": 14
+    },
+    {
+        "tour": 12,
+        "nb_lapins": 737,
+        "nb_renards": 16
+    },
+    {
+        "tour": 13,
+        "nb_lapins": 1240,
+        "nb_renards": 18
+    },
+    {
+        "tour": 14,
+        "nb_lapins": 2071,
+        "nb_renards": 24
+    },
+    {
+        "tour": 15,
+        "nb_lapins": 3459,
+        "nb_renards": 30
+    },
+    {
+        "tour": 16,
+        "nb_lapins": 5844,
+        "nb_renards": 34
+    },
+    {
+        "tour": 17,
+        "nb_lapins": 9872,
+        "nb_renards": 42
+    },
+    {
+        "tour": 18,
+        "nb_lapins": 16661,
+        "nb_renards": 50
+    },
+    {
+        "tour": 19,
+        "nb_lapins": 28198,
+        "nb_renards": 60
+    },
+    {
+        "tour": 20,
+        "nb_lapins": 47754,
+        "nb_renards": 72
+    },
+    {
+        "tour": 21,
+        "nb_lapins": 80846,
+        "nb_renards": 87
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 10,
+        "nb_renards": 2
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 8,
+        "nb_renards": 2
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 39,
+        "nb_renards": 2
+    },
+    {
+        "tour": 4,
+        "nb_lapins": 37,
+        "nb_renards": 4
+    },
+    {
+        "tour": 5,
+        "nb_lapins": 53,
+        "nb_renards": 4
+    },
+    {
+        "tour": 6,
+        "nb_lapins": 178,
+        "nb_renards": 4
+    },
+    {
+        "tour": 7,
+        "nb_lapins": 174,
+        "nb_renards": 6
+    },
+    {
+        "tour": 8,
+        "nb_lapins": 346,
+        "nb_renards": 8
+    },
+    {
+        "tour": 9,
+        "nb_lapins": 852,
+        "nb_renards": 8
+    },
+    {
+        "tour": 10,
+        "nb_lapins": 980,
+        "nb_renards": 10
+    },
+    {
+        "tour": 11,
+        "nb_lapins": 2190,
+        "nb_renards": 14
+    },
+    {
+        "tour": 12,
+        "nb_lapins": 4300,
+        "nb_renards": 16
+    },
+    {
+        "tour": 13,
+        "nb_lapins": 6048,
+        "nb_renards": 18
+    },
+    {
+        "tour": 14,
+        "nb_lapins": 12944,
+        "nb_renards": 24
+    },
+    {
+        "tour": 15,
+        "nb_lapins": 23097,
+        "nb_renards": 30
+    },
+    {
+        "tour": 16,
+        "nb_lapins": 37030,
+        "nb_renards": 34
+    },
+    {
+        "tour": 17,
+        "nb_lapins": 74677,
+        "nb_renards": 42
+    },
+    {
+        "tour": 18,
+        "nb_lapins": 129274,
+        "nb_renards": 54
+    },
+    {
+        "tour": 19,
+        "nb_lapins": 222491,
+        "nb_renards": 64
+    },
+    {
+        "tour": 20,
+        "nb_lapins": 427763,
+        "nb_renards": 76
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 9,
+        "nb_renards": 2
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 8,
+        "nb_renards": 2
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 23,
+        "nb_renards": 2
+    },
+    {
+        "tour": 4,
+        "nb_lapins": 21,
+        "nb_renards": 4
+    },
+    {
+        "tour": 5,
+        "nb_lapins": 30,
+        "nb_renards": 4
+    },
+    {
+        "tour": 6,
+        "nb_lapins": 58,
+        "nb_renards": 4
+    },
+    {
+        "tour": 7,
+        "nb_lapins": 54,
+        "nb_renards": 6
+    },
+    {
+        "tour": 8,
+        "nb_lapins": 89,
+        "nb_renards": 8
+    },
+    {
+        "tour": 9,
+        "nb_lapins": 147,
+        "nb_renards": 8
+    },
+    {
+        "tour": 10,
+        "nb_lapins": 159,
+        "nb_renards": 10
+    },
+    {
+        "tour": 11,
+        "nb_lapins": 294,
+        "nb_renards": 14
+    },
+    {
+        "tour": 12,
+        "nb_lapins": 411,
+        "nb_renards": 16
+    },
+    {
+        "tour": 13,
+        "nb_lapins": 544,
+        "nb_renards": 18
+    },
+    {
+        "tour": 14,
+        "nb_lapins": 947,
+        "nb_renards": 24
+    },
+    {
+        "tour": 15,
+        "nb_lapins": 1284,
+        "nb_renards": 30
+    },
+    {
+        "tour": 16,
+        "nb_lapins": 1961,
+        "nb_renards": 34
+    },
+    {
+        "tour": 17,
+        "nb_lapins": 3052,
+        "nb_renards": 42
+    },
+    {
+        "tour": 18,
+        "nb_lapins": 4300,
+        "nb_renards": 54
+    },
+    {
+        "tour": 19,
+        "nb_lapins": 6750,
+        "nb_renards": 61
+    },
+    {
+        "tour": 20,
+        "nb_lapins": 9936,
+        "nb_renards": 72
+    },
+    {
+        "tour": 21,
+        "nb_lapins": 14672,
+        "nb_renards": 90
+    },
+    {
+        "tour": 22,
+        "nb_lapins": 22528,
+        "nb_renards": 110
+    },
+    {
+        "tour": 23,
+        "nb_lapins": 32873,
+        "nb_renards": 127
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 7,
+        "nb_renards": 2
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 4,
+        "nb_renards": 2
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 11,
+        "nb_renards": 2
+    },
+    {
+        "tour": 4,
+        "nb_lapins": 8,
+        "nb_renards": 4
+    },
+    {
+        "tour": 5,
+        "nb_lapins": 4,
+        "nb_renards": 4
+    },
+    {
+        "tour": 6,
+        "nb_lapins": 2,
+        "nb_renards": 4
+    },
+    {
+        "tour": 7,
+        "nb_lapins": 0,
+        "nb_renards": 6
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 27,
+        "nb_renards": 2
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 26,
+        "nb_renards": 2
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 75,
+        "nb_renards": 2
+    },
+    {
+        "tour": 4,
+        "nb_lapins": 73,
+        "nb_renards": 4
+    },
+    {
+        "tour": 5,
+        "nb_lapins": 109,
+        "nb_renards": 4
+    },
+    {
+        "tour": 6,
+        "nb_lapins": 206,
+        "nb_renards": 4
+    },
+    {
+        "tour": 7,
+        "nb_lapins": 218,
+        "nb_renards": 6
+    },
+    {
+        "tour": 8,
+        "nb_lapins": 399,
+        "nb_renards": 8
+    },
+    {
+        "tour": 9,
+        "nb_lapins": 596,
+        "nb_renards": 8
+    },
+    {
+        "tour": 10,
+        "nb_lapins": 773,
+        "nb_renards": 10
+    },
+    {
+        "tour": 11,
+        "nb_lapins": 1344,
+        "nb_renards": 14
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 17,
+        "nb_renards": 2
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 17,
+        "nb_renards": 2
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 50,
+        "nb_renards": 2
+    },
+    {
+        "tour": 4,
+        "nb_lapins": 49,
+        "nb_renards": 4
+    },
+    {
+        "tour": 5,
+        "nb_lapins": 76,
+        "nb_renards": 4
+    },
+    {
+        "tour": 6,
+        "nb_lapins": 137,
+        "nb_renards": 4
+    },
+    {
+        "tour": 7,
+        "nb_lapins": 142,
+        "nb_renards": 6
+    },
+    {
+        "tour": 8,
+        "nb_lapins": 258,
+        "nb_renards": 8
+    },
+    {
+        "tour": 9,
+        "nb_lapins": 383,
+        "nb_renards": 8
+    },
+    {
+        "tour": 10,
+        "nb_lapins": 474,
+        "nb_renards": 10
+    },
+    {
+        "tour": 11,
+        "nb_lapins": 846,
+        "nb_renards": 14
+    },
+    {
+        "tour": 12,
+        "nb_lapins": 1155,
+        "nb_renards": 16
+    },
+    {
+        "tour": 13,
+        "nb_lapins": 1729,
+        "nb_renards": 18
+    },
+    {
+        "tour": 14,
+        "nb_lapins": 2770,
+        "nb_renards": 24
+    },
+    {
+        "tour": 15,
+        "nb_lapins": 3842,
+        "nb_renards": 30
+    },
+    {
+        "tour": 16,
+        "nb_lapins": 6028,
+        "nb_renards": 34
+    },
+    {
+        "tour": 17,
+        "nb_lapins": 8962,
+        "nb_renards": 42
+    },
+    {
+        "tour": 18,
+        "nb_lapins": 13020,
+        "nb_renards": 54
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 18,
+        "nb_renards": 2
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 18,
+        "nb_renards": 2
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 53,
+        "nb_renards": 2
+    },
+    {
+        "tour": 4,
+        "nb_lapins": 51,
+        "nb_renards": 4
+    },
+    {
+        "tour": 5,
+        "nb_lapins": 78,
+        "nb_renards": 4
+    },
+    {
+        "tour": 6,
+        "nb_lapins": 147,
+        "nb_renards": 4
+    },
+    {
+        "tour": 7,
+        "nb_lapins": 161,
+        "nb_renards": 6
+    },
+    {
+        "tour": 8,
+        "nb_lapins": 200,
+        "nb_renards": 8
+    },
+    {
+        "tour": 9,
+        "nb_lapins": 200,
+        "nb_renards": 8
+    },
+    {
+        "tour": 10,
+        "nb_lapins": 200,
+        "nb_renards": 10
+    },
+    {
+        "tour": 11,
+        "nb_lapins": 200,
+        "nb_renards": 14
+    },
+    {
+        "tour": 12,
+        "nb_lapins": 200,
+        "nb_renards": 16
+    },
+    {
+        "tour": 13,
+        "nb_lapins": 200,
+        "nb_renards": 18
+    },
+    {
+        "tour": 14,
+        "nb_lapins": 200,
+        "nb_renards": 24
+    },
+    {
+        "tour": 15,
+        "nb_lapins": 200,
+        "nb_renards": 30
+    },
+    {
+        "tour": 16,
+        "nb_lapins": 185,
+        "nb_renards": 34
+    },
+    {
+        "tour": 17,
+        "nb_lapins": 200,
+        "nb_renards": 42
+    },
+    {
+        "tour": 18,
+        "nb_lapins": 200,
+        "nb_renards": 54
+    },
+    {
+        "tour": 19,
+        "nb_lapins": 200,
+        "nb_renards": 60
+    },
+    {
+        "tour": 20,
+        "nb_lapins": 200,
+        "nb_renards": 60
+    },
+    {
+        "tour": 21,
+        "nb_lapins": 200,
+        "nb_renards": 60
+    },
+    {
+        "tour": 22,
+        "nb_lapins": 200,
+        "nb_renards": 60
+    },
+    {
+        "tour": 23,
+        "nb_lapins": 200,
+        "nb_renards": 60
+    },
+    {
+        "tour": 24,
+        "nb_lapins": 200,
+        "nb_renards": 60
+    },
+    {
+        "tour": 25,
+        "nb_lapins": 200,
+        "nb_renards": 60
+    },
+    {
+        "tour": 26,
+        "nb_lapins": 200,
+        "nb_renards": 60
+    },
+    {
+        "tour": 27,
+        "nb_lapins": 200,
+        "nb_renards": 60
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 18,
+        "nb_renards": 2
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 16,
+        "nb_renards": 2
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 46,
+        "nb_renards": 2
+    },
+    {
+        "tour": 4,
+        "nb_lapins": 45,
+        "nb_renards": 4
+    },
+    {
+        "tour": 5,
+        "nb_lapins": 67,
+        "nb_renards": 4
+    },
+    {
+        "tour": 6,
+        "nb_lapins": 128,
+        "nb_renards": 4
+    },
+    {
+        "tour": 7,
+        "nb_lapins": 136,
+        "nb_renards": 6
+    },
+    {
+        "tour": 8,
+        "nb_lapins": 200,
+        "nb_renards": 8
+    },
+    {
+        "tour": 9,
+        "nb_lapins": 200,
+        "nb_renards": 8
+    },
+    {
+        "tour": 10,
+        "nb_lapins": 200,
+        "nb_renards": 10
+    },
+    {
+        "tour": 11,
+        "nb_lapins": 200,
+        "nb_renards": 14
+    },
+    {
+        "tour": 12,
+        "nb_lapins": 200,
+        "nb_renards": 16
+    },
+    {
+        "tour": 13,
+        "nb_lapins": 200,
+        "nb_renards": 18
+    },
+    {
+        "tour": 14,
+        "nb_lapins": 200,
+        "nb_renards": 24
+    },
+    {
+        "tour": 15,
+        "nb_lapins": 200,
+        "nb_renards": 30
+    },
+    {
+        "tour": 16,
+        "nb_lapins": 193,
+        "nb_renards": 34
+    },
+    {
+        "tour": 17,
+        "nb_lapins": 200,
+        "nb_renards": 42
+    },
+    {
+        "tour": 18,
+        "nb_lapins": 200,
+        "nb_renards": 54
+    },
+    {
+        "tour": 19,
+        "nb_lapins": 200,
+        "nb_renards": 60
+    },
+    {
+        "tour": 20,
+        "nb_lapins": 200,
+        "nb_renards": 60
+    },
+    {
+        "tour": 21,
+        "nb_lapins": 200,
+        "nb_renards": 60
+    },
+    {
+        "tour": 22,
+        "nb_lapins": 200,
+        "nb_renards": 60
+    },
+    {
+        "tour": 23,
+        "nb_lapins": 200,
+        "nb_renards": 60
+    },
+    {
+        "tour": 24,
+        "nb_lapins": 200,
+        "nb_renards": 60
+    },
+    {
+        "tour": 25,
+        "nb_lapins": 200,
+        "nb_renards": 60
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 20,
+        "nb_renards": 2
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 19,
+        "nb_renards": 2
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 56,
+        "nb_renards": 2
+    },
+    {
+        "tour": 4,
+        "nb_lapins": 54,
+        "nb_renards": 4
+    },
+    {
+        "tour": 5,
+        "nb_lapins": 82,
+        "nb_renards": 4
+    },
+    {
+        "tour": 6,
+        "nb_lapins": 154,
+        "nb_renards": 4
+    },
+    {
+        "tour": 7,
+        "nb_lapins": 166,
+        "nb_renards": 6
+    },
+    {
+        "tour": 8,
+        "nb_lapins": 302,
+        "nb_renards": 8
+    },
+    {
+        "tour": 9,
+        "nb_lapins": 447,
+        "nb_renards": 8
+    },
+    {
+        "tour": 10,
+        "nb_lapins": 597,
+        "nb_renards": 10
+    },
+    {
+        "tour": 11,
+        "nb_lapins": 1021,
+        "nb_renards": 14
+    },
+    {
+        "tour": 12,
+        "nb_lapins": 1407,
+        "nb_renards": 16
+    },
+    {
+        "tour": 13,
+        "nb_lapins": 2131,
+        "nb_renards": 18
+    },
+    {
+        "tour": 14,
+        "nb_lapins": 3321,
+        "nb_renards": 24
+    },
+    {
+        "tour": 15,
+        "nb_lapins": 4684,
+        "nb_renards": 30
+    },
+    {
+        "tour": 16,
+        "nb_lapins": 7248,
+        "nb_renards": 34
+    },
+    {
+        "tour": 17,
+        "nb_lapins": 10733,
+        "nb_renards": 42
+    },
+    {
+        "tour": 18,
+        "nb_lapins": 15717,
+        "nb_renards": 54
+    },
+    {
+        "tour": 19,
+        "nb_lapins": 24049,
+        "nb_renards": 62
+    },
+    {
+        "tour": 20,
+        "nb_lapins": 35166,
+        "nb_renards": 74
+    },
+    {
+        "tour": 21,
+        "nb_lapins": 52668,
+        "nb_renards": 92
+    },
+    {
+        "tour": 22,
+        "nb_lapins": 79034,
+        "nb_renards": 112
+    },
+    {
+        "tour": 23,
+        "nb_lapins": 116358,
+        "nb_renards": 130
+    },
+    {
+        "tour": 24,
+        "nb_lapins": 175035,
+        "nb_renards": 162
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 12,
+        "nb_renards": 2
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 2,
+        "nb_renards": 2
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 4,
+        "nb_renards": 2
+    },
+    {
+        "tour": 4,
+        "nb_lapins": 2,
+        "nb_renards": 4
+    },
+    {
+        "tour": 5,
+        "nb_lapins": 0,
+        "nb_renards": 3
+    },
+    {
+        "tour": 6,
+        "nb_lapins": 0,
+        "nb_renards": 3
+    },
+    {
+        "tour": 7,
+        "nb_lapins": 0,
+        "nb_renards": 4
+    },
+    {
+        "tour": 8,
+        "nb_lapins": 0,
+        "nb_renards": 2
+    },
+    {
+        "tour": 9,
+        "nb_lapins": 0,
+        "nb_renards": 1
+    },
+    {
+        "tour": 10,
+        "nb_lapins": 0,
+        "nb_renards": 1
+    },
+    {
+        "tour": 11,
+        "nb_lapins": 0,
+        "nb_renards": 0
+    },
+    {
+        "tour": 12,
+        "nb_lapins": 0,
+        "nb_renards": 0
+    },
+    {
+        "tour": 13,
+        "nb_lapins": 0,
+        "nb_renards": 0
+    },
+    {
+        "tour": 14,
+        "nb_lapins": 0,
+        "nb_renards": 0
+    },
+    {
+        "tour": 15,
+        "nb_lapins": 0,
+        "nb_renards": 0
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 13,
+        "nb_renards": 2
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 10,
+        "nb_renards": 1
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 26,
+        "nb_renards": 1
+    },
+    {
+        "tour": 4,
+        "nb_lapins": 20,
+        "nb_renards": 0
+    },
+    {
+        "tour": 5,
+        "nb_lapins": 25,
+        "nb_renards": 0
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 15,
+        "nb_renards": 2
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 6,
+        "nb_renards": 2
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 10,
+        "nb_renards": 2
+    },
+    {
+        "tour": 4,
+        "nb_lapins": 5,
+        "nb_renards": 4
+    },
+    {
+        "tour": 5,
+        "nb_lapins": 0,
+        "nb_renards": 4
+    },
+    {
+        "tour": 6,
+        "nb_lapins": 0,
+        "nb_renards": 4
+    },
+    {
+        "tour": 7,
+        "nb_lapins": 0,
+        "nb_renards": 4
+    },
+    {
+        "tour": 8,
+        "nb_lapins": 0,
+        "nb_renards": 6
+    },
+    {
+        "tour": 9,
+        "nb_lapins": 0,
+        "nb_renards": 3
+    },
+    {
+        "tour": 10,
+        "nb_lapins": 0,
+        "nb_renards": 3
+    },
+    {
+        "tour": 11,
+        "nb_lapins": 0,
+        "nb_renards": 2
+    },
+    {
+        "tour": 12,
+        "nb_lapins": 0,
+        "nb_renards": 0
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 47,
+        "nb_renards": 1
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 131,
+        "nb_renards": 1
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 118,
+        "nb_renards": 2
+    },
+    {
+        "tour": 4,
+        "nb_lapins": 328,
+        "nb_renards": 1
+    },
+    {
+        "tour": 5,
+        "nb_lapins": 299,
+        "nb_renards": 1
+    },
+    {
+        "tour": 6,
+        "nb_lapins": 821,
+        "nb_renards": 2
+    },
+    {
+        "tour": 7,
+        "nb_lapins": 756,
+        "nb_renards": 2
+    },
+    {
+        "tour": 8,
+        "nb_lapins": 2069,
+        "nb_renards": 2
+    },
+    {
+        "tour": 9,
+        "nb_lapins": 1887,
+        "nb_renards": 4
+    },
+    {
+        "tour": 10,
+        "nb_lapins": 5061,
+        "nb_renards": 4
+    },
+    {
+        "tour": 11,
+        "nb_lapins": 4610,
+        "nb_renards": 3
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 47,
+        "nb_renards": 2
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 45,
+        "nb_renards": 1
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 84,
+        "nb_renards": 0
+    },
+    {
+        "tour": 4,
+        "nb_lapins": 74,
+        "nb_renards": 0
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 42,
+        "nb_renards": 2
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 36,
+        "nb_renards": 2
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 65,
+        "nb_renards": 4
+    },
+    {
+        "tour": 4,
+        "nb_lapins": 55,
+        "nb_renards": 4
+    },
+    {
+        "tour": 5,
+        "nb_lapins": 50,
+        "nb_renards": 3
+    },
+    {
+        "tour": 6,
+        "nb_lapins": 89,
+        "nb_renards": 6
+    },
+    {
+        "tour": 7,
+        "nb_lapins": 74,
+        "nb_renards": 6
+    },
+    {
+        "tour": 8,
+        "nb_lapins": 63,
+        "nb_renards": 6
+    },
+    {
+        "tour": 9,
+        "nb_lapins": 115,
+        "nb_renards": 12
+    },
+    {
+        "tour": 10,
+        "nb_lapins": 93,
+        "nb_renards": 12
+    },
+    {
+        "tour": 11,
+        "nb_lapins": 74,
+        "nb_renards": 12
+    },
+    {
+        "tour": 12,
+        "nb_lapins": 122,
+        "nb_renards": 24
+    },
+    {
+        "tour": 13,
+        "nb_lapins": 85,
+        "nb_renards": 24
+    },
+    {
+        "tour": 14,
+        "nb_lapins": 47,
+        "nb_renards": 24
+    },
+    {
+        "tour": 15,
+        "nb_lapins": 44,
+        "nb_renards": 48
+    },
+    {
+        "tour": 16,
+        "nb_lapins": 0,
+        "nb_renards": 48
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 46,
+        "nb_renards": 2
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 41,
+        "nb_renards": 2
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 73,
+        "nb_renards": 4
+    },
+    {
+        "tour": 4,
+        "nb_lapins": 66,
+        "nb_renards": 4
+    },
+    {
+        "tour": 5,
+        "nb_lapins": 54,
+        "nb_renards": 4
+    },
+    {
+        "tour": 6,
+        "nb_lapins": 99,
+        "nb_renards": 8
+    },
+    {
+        "tour": 7,
+        "nb_lapins": 81,
+        "nb_renards": 8
+    },
+    {
+        "tour": 8,
+        "nb_lapins": 66,
+        "nb_renards": 8
+    },
+    {
+        "tour": 9,
+        "nb_lapins": 107,
+        "nb_renards": 16
+    },
+    {
+        "tour": 10,
+        "nb_lapins": 81,
+        "nb_renards": 16
+    },
+    {
+        "tour": 11,
+        "nb_lapins": 44,
+        "nb_renards": 16
+    },
+    {
+        "tour": 12,
+        "nb_lapins": 53,
+        "nb_renards": 32
+    },
+    {
+        "tour": 13,
+        "nb_lapins": 17,
+        "nb_renards": 32
+    },
+    {
+        "tour": 14,
+        "nb_lapins": 0,
+        "nb_renards": 32
+    },
+    {
+        "tour": 15,
+        "nb_lapins": 0,
+        "nb_renards": 32
+    },
+    {
+        "tour": 16,
+        "nb_lapins": 0,
+        "nb_renards": 27
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 46,
+        "nb_renards": 2
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 39,
+        "nb_renards": 2
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 66,
+        "nb_renards": 4
+    },
+    {
+        "tour": 4,
+        "nb_lapins": 52,
+        "nb_renards": 4
+    },
+    {
+        "tour": 5,
+        "nb_lapins": 44,
+        "nb_renards": 3
+    },
+    {
+        "tour": 6,
+        "nb_lapins": 81,
+        "nb_renards": 5
+    },
+    {
+        "tour": 7,
+        "nb_lapins": 67,
+        "nb_renards": 6
+    },
+    {
+        "tour": 8,
+        "nb_lapins": 55,
+        "nb_renards": 6
+    },
+    {
+        "tour": 9,
+        "nb_lapins": 94,
+        "nb_renards": 8
+    },
+    {
+        "tour": 10,
+        "nb_lapins": 79,
+        "nb_renards": 10
+    },
+    {
+        "tour": 11,
+        "nb_lapins": 61,
+        "nb_renards": 11
+    },
+    {
+        "tour": 12,
+        "nb_lapins": 96,
+        "nb_renards": 13
+    },
+    {
+        "tour": 13,
+        "nb_lapins": 79,
+        "nb_renards": 14
+    },
+    {
+        "tour": 14,
+        "nb_lapins": 55,
+        "nb_renards": 15
+    },
+    {
+        "tour": 15,
+        "nb_lapins": 75,
+        "nb_renards": 17
+    },
+    {
+        "tour": 16,
+        "nb_lapins": 48,
+        "nb_renards": 19
+    },
+    {
+        "tour": 17,
+        "nb_lapins": 21,
+        "nb_renards": 21
+    },
+    {
+        "tour": 18,
+        "nb_lapins": 14,
+        "nb_renards": 22
+    },
+    {
+        "tour": 19,
+        "nb_lapins": 0,
+        "nb_renards": 24
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 42,
+        "nb_renards": 2
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 41,
+        "nb_renards": 2
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 71,
+        "nb_renards": 4
+    },
+    {
+        "tour": 4,
+        "nb_lapins": 62,
+        "nb_renards": 4
+    },
+    {
+        "tour": 5,
+        "nb_lapins": 55,
+        "nb_renards": 4
+    },
+    {
+        "tour": 6,
+        "nb_lapins": 103,
+        "nb_renards": 6
+    },
+    {
+        "tour": 7,
+        "nb_lapins": 92,
+        "nb_renards": 7
+    },
+    {
+        "tour": 8,
+        "nb_lapins": 77,
+        "nb_renards": 7
+    },
+    {
+        "tour": 9,
+        "nb_lapins": 132,
+        "nb_renards": 9
+    },
+    {
+        "tour": 10,
+        "nb_lapins": 119,
+        "nb_renards": 9
+    },
+    {
+        "tour": 11,
+        "nb_lapins": 117,
+        "nb_renards": 11
+    },
+    {
+        "tour": 12,
+        "nb_lapins": 210,
+        "nb_renards": 13
+    },
+    {
+        "tour": 13,
+        "nb_lapins": 183,
+        "nb_renards": 15
+    },
+    {
+        "tour": 14,
+        "nb_lapins": 169,
+        "nb_renards": 16
+    },
+    {
+        "tour": 15,
+        "nb_lapins": 319,
+        "nb_renards": 18
+    },
+    {
+        "tour": 16,
+        "nb_lapins": 291,
+        "nb_renards": 20
+    },
+    {
+        "tour": 17,
+        "nb_lapins": 263,
+        "nb_renards": 22
+    },
+    {
+        "tour": 18,
+        "nb_lapins": 465,
+        "nb_renards": 23
+    },
+    {
+        "tour": 19,
+        "nb_lapins": 412,
+        "nb_renards": 25
+    },
+    {
+        "tour": 20,
+        "nb_lapins": 382,
+        "nb_renards": 21
+    },
+    {
+        "tour": 21,
+        "nb_lapins": 666,
+        "nb_renards": 23
+    },
+    {
+        "tour": 22,
+        "nb_lapins": 608,
+        "nb_renards": 25
+    },
+    {
+        "tour": 23,
+        "nb_lapins": 542,
+        "nb_renards": 27
+    },
+    {
+        "tour": 24,
+        "nb_lapins": 936,
+        "nb_renards": 27
+    },
+    {
+        "tour": 25,
+        "nb_lapins": 857,
+        "nb_renards": 28
+    },
+    {
+        "tour": 26,
+        "nb_lapins": 780,
+        "nb_renards": 29
+    },
+    {
+        "tour": 27,
+        "nb_lapins": 1357,
+        "nb_renards": 30
+    },
+    {
+        "tour": 28,
+        "nb_lapins": 1256,
+        "nb_renards": 30
+    },
+    {
+        "tour": 29,
+        "nb_lapins": 1149,
+        "nb_renards": 31
+    },
+    {
+        "tour": 30,
+        "nb_lapins": 1952,
+        "nb_renards": 32
+    },
+    {
+        "tour": 31,
+        "nb_lapins": 1781,
+        "nb_renards": 34
+    },
+    {
+        "tour": 32,
+        "nb_lapins": 1635,
+        "nb_renards": 34
+    },
+    {
+        "tour": 33,
+        "nb_lapins": 2787,
+        "nb_renards": 34
+    },
+    {
+        "tour": 34,
+        "nb_lapins": 2555,
+        "nb_renards": 34
+    },
+    {
+        "tour": 35,
+        "nb_lapins": 2352,
+        "nb_renards": 35
+    },
+    {
+        "tour": 36,
+        "nb_lapins": 3985,
+        "nb_renards": 34
+    },
+    {
+        "tour": 37,
+        "nb_lapins": 3674,
+        "nb_renards": 35
+    },
+    {
+        "tour": 38,
+        "nb_lapins": 3379,
+        "nb_renards": 36
+    },
+    {
+        "tour": 39,
+        "nb_lapins": 5708,
+        "nb_renards": 36
+    },
+    {
+        "tour": 40,
+        "nb_lapins": 5258,
+        "nb_renards": 37
+    },
+    {
+        "tour": 41,
+        "nb_lapins": 4826,
+        "nb_renards": 37
+    },
+    {
+        "tour": 42,
+        "nb_lapins": 8173,
+        "nb_renards": 37
+    },
+    {
+        "tour": 43,
+        "nb_lapins": 7473,
+        "nb_renards": 37
+    },
+    {
+        "tour": 44,
+        "nb_lapins": 6802,
+        "nb_renards": 38
+    },
+    {
+        "tour": 45,
+        "nb_lapins": 11598,
+        "nb_renards": 38
+    },
+    {
+        "tour": 46,
+        "nb_lapins": 10600,
+        "nb_renards": 39
+    },
+    {
+        "tour": 47,
+        "nb_lapins": 9723,
+        "nb_renards": 37
+    },
+    {
+        "tour": 48,
+        "nb_lapins": 16531,
+        "nb_renards": 37
+    },
+    {
+        "tour": 49,
+        "nb_lapins": 15205,
+        "nb_renards": 38
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 48,
+        "nb_renards": 2
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 46,
+        "nb_renards": 2
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 43,
+        "nb_renards": 4
+    },
+    {
+        "tour": 4,
+        "nb_lapins": 80,
+        "nb_renards": 4
+    },
+    {
+        "tour": 5,
+        "nb_lapins": 75,
+        "nb_renards": 4
+    },
+    {
+        "tour": 6,
+        "nb_lapins": 67,
+        "nb_renards": 5
+    },
+    {
+        "tour": 7,
+        "nb_lapins": 57,
+        "nb_renards": 6
+    },
+    {
+        "tour": 8,
+        "nb_lapins": 108,
+        "nb_renards": 6
+    },
+    {
+        "tour": 9,
+        "nb_lapins": 97,
+        "nb_renards": 8
+    },
+    {
+        "tour": 10,
+        "nb_lapins": 86,
+        "nb_renards": 10
+    },
+    {
+        "tour": 11,
+        "nb_lapins": 77,
+        "nb_renards": 11
+    },
+    {
+        "tour": 12,
+        "nb_lapins": 140,
+        "nb_renards": 13
+    },
+    {
+        "tour": 13,
+        "nb_lapins": 128,
+        "nb_renards": 14
+    },
+    {
+        "tour": 14,
+        "nb_lapins": 117,
+        "nb_renards": 16
+    },
+    {
+        "tour": 15,
+        "nb_lapins": 103,
+        "nb_renards": 18
+    },
+    {
+        "tour": 16,
+        "nb_lapins": 179,
+        "nb_renards": 20
+    },
+    {
+        "tour": 17,
+        "nb_lapins": 159,
+        "nb_renards": 22
+    },
+    {
+        "tour": 18,
+        "nb_lapins": 150,
+        "nb_renards": 23
+    },
+    {
+        "tour": 19,
+        "nb_lapins": 136,
+        "nb_renards": 25
+    },
+    {
+        "tour": 20,
+        "nb_lapins": 255,
+        "nb_renards": 24
+    },
+    {
+        "tour": 21,
+        "nb_lapins": 238,
+        "nb_renards": 26
+    },
+    {
+        "tour": 22,
+        "nb_lapins": 224,
+        "nb_renards": 28
+    },
+    {
+        "tour": 23,
+        "nb_lapins": 205,
+        "nb_renards": 29
+    },
+    {
+        "tour": 24,
+        "nb_lapins": 384,
+        "nb_renards": 30
+    },
+    {
+        "tour": 25,
+        "nb_lapins": 364,
+        "nb_renards": 32
+    },
+    {
+        "tour": 26,
+        "nb_lapins": 340,
+        "nb_renards": 33
+    },
+    {
+        "tour": 27,
+        "nb_lapins": 315,
+        "nb_renards": 33
+    },
+    {
+        "tour": 28,
+        "nb_lapins": 589,
+        "nb_renards": 34
+    },
+    {
+        "tour": 29,
+        "nb_lapins": 555,
+        "nb_renards": 35
+    },
+    {
+        "tour": 30,
+        "nb_lapins": 530,
+        "nb_renards": 34
+    },
+    {
+        "tour": 31,
+        "nb_lapins": 490,
+        "nb_renards": 33
+    },
+    {
+        "tour": 32,
+        "nb_lapins": 926,
+        "nb_renards": 34
+    },
+    {
+        "tour": 33,
+        "nb_lapins": 873,
+        "nb_renards": 34
+    },
+    {
+        "tour": 34,
+        "nb_lapins": 822,
+        "nb_renards": 35
+    },
+    {
+        "tour": 35,
+        "nb_lapins": 739,
+        "nb_renards": 35
+    },
+    {
+        "tour": 36,
+        "nb_lapins": 1389,
+        "nb_renards": 36
+    },
+    {
+        "tour": 37,
+        "nb_lapins": 1318,
+        "nb_renards": 36
+    },
+    {
+        "tour": 38,
+        "nb_lapins": 1251,
+        "nb_renards": 36
+    },
+    {
+        "tour": 39,
+        "nb_lapins": 1101,
+        "nb_renards": 36
+    },
+    {
+        "tour": 40,
+        "nb_lapins": 2071,
+        "nb_renards": 35
+    },
+    {
+        "tour": 41,
+        "nb_lapins": 1964,
+        "nb_renards": 36
+    },
+    {
+        "tour": 42,
+        "nb_lapins": 1869,
+        "nb_renards": 35
+    },
+    {
+        "tour": 43,
+        "nb_lapins": 1646,
+        "nb_renards": 36
+    },
+    {
+        "tour": 44,
+        "nb_lapins": 3106,
+        "nb_renards": 35
+    },
+    {
+        "tour": 45,
+        "nb_lapins": 2946,
+        "nb_renards": 36
+    },
+    {
+        "tour": 46,
+        "nb_lapins": 2792,
+        "nb_renards": 37
+    },
+    {
+        "tour": 47,
+        "nb_lapins": 2434,
+        "nb_renards": 36
+    },
+    {
+        "tour": 48,
+        "nb_lapins": 4585,
+        "nb_renards": 34
+    },
+    {
+        "tour": 49,
+        "nb_lapins": 4345,
+        "nb_renards": 35
+    },
+    {
+        "tour": 50,
+        "nb_lapins": 4128,
+        "nb_renards": 35
+    },
+    {
+        "tour": 51,
+        "nb_lapins": 3618,
+        "nb_renards": 36
+    },
+    {
+        "tour": 52,
+        "nb_lapins": 6870,
+        "nb_renards": 35
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 47,
+        "nb_renards": 2
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 44,
+        "nb_renards": 2
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 37,
+        "nb_renards": 4
+    },
+    {
+        "tour": 4,
+        "nb_lapins": 65,
+        "nb_renards": 4
+    },
+    {
+        "tour": 5,
+        "nb_lapins": 58,
+        "nb_renards": 4
+    },
+    {
+        "tour": 6,
+        "nb_lapins": 55,
+        "nb_renards": 6
+    },
+    {
+        "tour": 7,
+        "nb_lapins": 48,
+        "nb_renards": 7
+    },
+    {
+        "tour": 8,
+        "nb_lapins": 85,
+        "nb_renards": 7
+    },
+    {
+        "tour": 9,
+        "nb_lapins": 80,
+        "nb_renards": 8
+    },
+    {
+        "tour": 10,
+        "nb_lapins": 76,
+        "nb_renards": 8
+    },
+    {
+        "tour": 11,
+        "nb_lapins": 67,
+        "nb_renards": 10
+    },
+    {
+        "tour": 12,
+        "nb_lapins": 130,
+        "nb_renards": 12
+    },
+    {
+        "tour": 13,
+        "nb_lapins": 110,
+        "nb_renards": 14
+    },
+    {
+        "tour": 14,
+        "nb_lapins": 100,
+        "nb_renards": 14
+    },
+    {
+        "tour": 15,
+        "nb_lapins": 88,
+        "nb_renards": 16
+    },
+    {
+        "tour": 16,
+        "nb_lapins": 161,
+        "nb_renards": 18
+    },
+    {
+        "tour": 17,
+        "nb_lapins": 152,
+        "nb_renards": 20
+    },
+    {
+        "tour": 18,
+        "nb_lapins": 133,
+        "nb_renards": 21
+    },
+    {
+        "tour": 19,
+        "nb_lapins": 118,
+        "nb_renards": 23
+    },
+    {
+        "tour": 20,
+        "nb_lapins": 217,
+        "nb_renards": 21
+    },
+    {
+        "tour": 21,
+        "nb_lapins": 201,
+        "nb_renards": 23
+    },
+    {
+        "tour": 22,
+        "nb_lapins": 185,
+        "nb_renards": 24
+    },
+    {
+        "tour": 23,
+        "nb_lapins": 168,
+        "nb_renards": 26
+    },
+    {
+        "tour": 24,
+        "nb_lapins": 303,
+        "nb_renards": 26
+    },
+    {
+        "tour": 25,
+        "nb_lapins": 283,
+        "nb_renards": 28
+    },
+    {
+        "tour": 26,
+        "nb_lapins": 262,
+        "nb_renards": 30
+    },
+    {
+        "tour": 27,
+        "nb_lapins": 239,
+        "nb_renards": 31
+    },
+    {
+        "tour": 28,
+        "nb_lapins": 438,
+        "nb_renards": 30
+    },
+    {
+        "tour": 29,
+        "nb_lapins": 403,
+        "nb_renards": 30
+    },
+    {
+        "tour": 30,
+        "nb_lapins": 370,
+        "nb_renards": 31
+    },
+    {
+        "tour": 31,
+        "nb_lapins": 344,
+        "nb_renards": 33
+    },
+    {
+        "tour": 32,
+        "nb_lapins": 645,
+        "nb_renards": 33
+    },
+    {
+        "tour": 33,
+        "nb_lapins": 604,
+        "nb_renards": 33
+    },
+    {
+        "tour": 34,
+        "nb_lapins": 556,
+        "nb_renards": 34
+    },
+    {
+        "tour": 35,
+        "nb_lapins": 506,
+        "nb_renards": 36
+    },
+    {
+        "tour": 36,
+        "nb_lapins": 968,
+        "nb_renards": 37
+    },
+    {
+        "tour": 37,
+        "nb_lapins": 899,
+        "nb_renards": 35
+    },
+    {
+        "tour": 38,
+        "nb_lapins": 841,
+        "nb_renards": 36
+    },
+    {
+        "tour": 39,
+        "nb_lapins": 757,
+        "nb_renards": 36
+    },
+    {
+        "tour": 40,
+        "nb_lapins": 1442,
+        "nb_renards": 36
+    },
+    {
+        "tour": 41,
+        "nb_lapins": 1350,
+        "nb_renards": 38
+    },
+    {
+        "tour": 42,
+        "nb_lapins": 1264,
+        "nb_renards": 38
+    },
+    {
+        "tour": 43,
+        "nb_lapins": 1127,
+        "nb_renards": 37
+    },
+    {
+        "tour": 44,
+        "nb_lapins": 2142,
+        "nb_renards": 37
+    },
+    {
+        "tour": 45,
+        "nb_lapins": 2024,
+        "nb_renards": 38
+    },
+    {
+        "tour": 46,
+        "nb_lapins": 1919,
+        "nb_renards": 39
+    },
+    {
+        "tour": 47,
+        "nb_lapins": 1701,
+        "nb_renards": 35
+    },
+    {
+        "tour": 48,
+        "nb_lapins": 3243,
+        "nb_renards": 35
+    },
+    {
+        "tour": 49,
+        "nb_lapins": 3080,
+        "nb_renards": 34
+    },
+    {
+        "tour": 50,
+        "nb_lapins": 2936,
+        "nb_renards": 35
+    },
+    {
+        "tour": 51,
+        "nb_lapins": 2584,
+        "nb_renards": 36
+    },
+    {
+        "tour": 52,
+        "nb_lapins": 4888,
+        "nb_renards": 37
+    },
+    {
+        "tour": 53,
+        "nb_lapins": 4615,
+        "nb_renards": 36
+    },
+    {
+        "tour": 54,
+        "nb_lapins": 4374,
+        "nb_renards": 36
+    },
+    {
+        "tour": 55,
+        "nb_lapins": 3819,
+        "nb_renards": 36
+    },
+    {
+        "tour": 56,
+        "nb_lapins": 7262,
+        "nb_renards": 32
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 42,
+        "nb_renards": 2
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 39,
+        "nb_renards": 1
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 35,
+        "nb_renards": 2
+    },
+    {
+        "tour": 4,
+        "nb_lapins": 67,
+        "nb_renards": 2
+    },
+    {
+        "tour": 5,
+        "nb_lapins": 65,
+        "nb_renards": 2
+    },
+    {
+        "tour": 6,
+        "nb_lapins": 63,
+        "nb_renards": 4
+    },
+    {
+        "tour": 7,
+        "nb_lapins": 53,
+        "nb_renards": 4
+    },
+    {
+        "tour": 8,
+        "nb_lapins": 98,
+        "nb_renards": 4
+    },
+    {
+        "tour": 9,
+        "nb_lapins": 89,
+        "nb_renards": 6
+    },
+    {
+        "tour": 10,
+        "nb_lapins": 80,
+        "nb_renards": 8
+    },
+    {
+        "tour": 11,
+        "nb_lapins": 69,
+        "nb_renards": 8
+    },
+    {
+        "tour": 12,
+        "nb_lapins": 124,
+        "nb_renards": 10
+    },
+    {
+        "tour": 13,
+        "nb_lapins": 117,
+        "nb_renards": 10
+    },
+    {
+        "tour": 14,
+        "nb_lapins": 111,
+        "nb_renards": 12
+    },
+    {
+        "tour": 15,
+        "nb_lapins": 99,
+        "nb_renards": 14
+    },
+    {
+        "tour": 16,
+        "nb_lapins": 181,
+        "nb_renards": 16
+    },
+    {
+        "tour": 17,
+        "nb_lapins": 163,
+        "nb_renards": 18
+    },
+    {
+        "tour": 18,
+        "nb_lapins": 138,
+        "nb_renards": 20
+    },
+    {
+        "tour": 19,
+        "nb_lapins": 118,
+        "nb_renards": 21
+    },
+    {
+        "tour": 20,
+        "nb_lapins": 220,
+        "nb_renards": 22
+    },
+    {
+        "tour": 21,
+        "nb_lapins": 203,
+        "nb_renards": 24
+    },
+    {
+        "tour": 22,
+        "nb_lapins": 187,
+        "nb_renards": 26
+    },
+    {
+        "tour": 23,
+        "nb_lapins": 167,
+        "nb_renards": 27
+    },
+    {
+        "tour": 24,
+        "nb_lapins": 290,
+        "nb_renards": 28
+    },
+    {
+        "tour": 25,
+        "nb_lapins": 266,
+        "nb_renards": 30
+    },
+    {
+        "tour": 26,
+        "nb_lapins": 242,
+        "nb_renards": 32
+    },
+    {
+        "tour": 27,
+        "nb_lapins": 219,
+        "nb_renards": 31
+    },
+    {
+        "tour": 28,
+        "nb_lapins": 385,
+        "nb_renards": 33
+    },
+    {
+        "tour": 29,
+        "nb_lapins": 349,
+        "nb_renards": 35
+    },
+    {
+        "tour": 30,
+        "nb_lapins": 330,
+        "nb_renards": 34
+    },
+    {
+        "tour": 31,
+        "nb_lapins": 309,
+        "nb_renards": 33
+    },
+    {
+        "tour": 32,
+        "nb_lapins": 587,
+        "nb_renards": 35
+    },
+    {
+        "tour": 33,
+        "nb_lapins": 548,
+        "nb_renards": 35
+    },
+    {
+        "tour": 34,
+        "nb_lapins": 518,
+        "nb_renards": 37
+    },
+    {
+        "tour": 35,
+        "nb_lapins": 473,
+        "nb_renards": 36
+    },
+    {
+        "tour": 36,
+        "nb_lapins": 900,
+        "nb_renards": 35
+    },
+    {
+        "tour": 37,
+        "nb_lapins": 836,
+        "nb_renards": 33
+    },
+    {
+        "tour": 38,
+        "nb_lapins": 790,
+        "nb_renards": 33
+    },
+    {
+        "tour": 39,
+        "nb_lapins": 713,
+        "nb_renards": 33
+    },
+    {
+        "tour": 40,
+        "nb_lapins": 1321,
+        "nb_renards": 35
+    },
+    {
+        "tour": 41,
+        "nb_lapins": 1247,
+        "nb_renards": 36
+    },
+    {
+        "tour": 42,
+        "nb_lapins": 1157,
+        "nb_renards": 37
+    },
+    {
+        "tour": 43,
+        "nb_lapins": 1041,
+        "nb_renards": 37
+    },
+    {
+        "tour": 44,
+        "nb_lapins": 1978,
+        "nb_renards": 38
+    },
+    {
+        "tour": 45,
+        "nb_lapins": 1873,
+        "nb_renards": 36
+    },
+    {
+        "tour": 46,
+        "nb_lapins": 1753,
+        "nb_renards": 37
+    },
+    {
+        "tour": 47,
+        "nb_lapins": 1548,
+        "nb_renards": 37
+    },
+    {
+        "tour": 48,
+        "nb_lapins": 2935,
+        "nb_renards": 37
+    },
+    {
+        "tour": 49,
+        "nb_lapins": 2788,
+        "nb_renards": 37
+    },
+    {
+        "tour": 50,
+        "nb_lapins": 2639,
+        "nb_renards": 37
+    },
+    {
+        "tour": 51,
+        "nb_lapins": 2331,
+        "nb_renards": 37
+    },
+    {
+        "tour": 52,
+        "nb_lapins": 4388,
+        "nb_renards": 37
+    },
+    {
+        "tour": 53,
+        "nb_lapins": 4123,
+        "nb_renards": 36
+    },
+    {
+        "tour": 54,
+        "nb_lapins": 3940,
+        "nb_renards": 36
+    },
+    {
+        "tour": 55,
+        "nb_lapins": 3455,
+        "nb_renards": 35
+    },
+    {
+        "tour": 56,
+        "nb_lapins": 6519,
+        "nb_renards": 34
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 47,
+        "nb_renards": 2
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 41,
+        "nb_renards": 2
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 39,
+        "nb_renards": 4
+    },
+    {
+        "tour": 4,
+        "nb_lapins": 71,
+        "nb_renards": 4
+    },
+    {
+        "tour": 5,
+        "nb_lapins": 68,
+        "nb_renards": 4
+    },
+    {
+        "tour": 6,
+        "nb_lapins": 60,
+        "nb_renards": 6
+    },
+    {
+        "tour": 7,
+        "nb_lapins": 53,
+        "nb_renards": 8
+    },
+    {
+        "tour": 8,
+        "nb_lapins": 103,
+        "nb_renards": 8
+    },
+    {
+        "tour": 9,
+        "nb_lapins": 92,
+        "nb_renards": 10
+    },
+    {
+        "tour": 10,
+        "nb_lapins": 80,
+        "nb_renards": 10
+    },
+    {
+        "tour": 11,
+        "nb_lapins": 73,
+        "nb_renards": 12
+    },
+    {
+        "tour": 12,
+        "nb_lapins": 131,
+        "nb_renards": 14
+    },
+    {
+        "tour": 13,
+        "nb_lapins": 112,
+        "nb_renards": 16
+    },
+    {
+        "tour": 14,
+        "nb_lapins": 96,
+        "nb_renards": 17
+    },
+    {
+        "tour": 15,
+        "nb_lapins": 85,
+        "nb_renards": 19
+    },
+    {
+        "tour": 16,
+        "nb_lapins": 153,
+        "nb_renards": 21
+    },
+    {
+        "tour": 17,
+        "nb_lapins": 141,
+        "nb_renards": 21
+    },
+    {
+        "tour": 18,
+        "nb_lapins": 132,
+        "nb_renards": 23
+    },
+    {
+        "tour": 19,
+        "nb_lapins": 120,
+        "nb_renards": 25
+    },
+    {
+        "tour": 20,
+        "nb_lapins": 218,
+        "nb_renards": 25
+    },
+    {
+        "tour": 21,
+        "nb_lapins": 205,
+        "nb_renards": 27
+    },
+    {
+        "tour": 22,
+        "nb_lapins": 173,
+        "nb_renards": 28
+    },
+    {
+        "tour": 23,
+        "nb_lapins": 156,
+        "nb_renards": 29
+    },
+    {
+        "tour": 24,
+        "nb_lapins": 292,
+        "nb_renards": 25
+    },
+    {
+        "tour": 25,
+        "nb_lapins": 273,
+        "nb_renards": 26
+    },
+    {
+        "tour": 26,
+        "nb_lapins": 252,
+        "nb_renards": 28
+    },
+    {
+        "tour": 27,
+        "nb_lapins": 232,
+        "nb_renards": 28
+    },
+    {
+        "tour": 28,
+        "nb_lapins": 422,
+        "nb_renards": 29
+    },
+    {
+        "tour": 29,
+        "nb_lapins": 390,
+        "nb_renards": 31
+    },
+    {
+        "tour": 30,
+        "nb_lapins": 362,
+        "nb_renards": 31
+    },
+    {
+        "tour": 31,
+        "nb_lapins": 336,
+        "nb_renards": 33
+    },
+    {
+        "tour": 32,
+        "nb_lapins": 623,
+        "nb_renards": 33
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 41,
+        "nb_renards": 2
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 38,
+        "nb_renards": 2
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 33,
+        "nb_renards": 4
+    },
+    {
+        "tour": 4,
+        "nb_lapins": 61,
+        "nb_renards": 4
+    },
+    {
+        "tour": 5,
+        "nb_lapins": 56,
+        "nb_renards": 4
+    },
+    {
+        "tour": 6,
+        "nb_lapins": 51,
+        "nb_renards": 6
+    },
+    {
+        "tour": 7,
+        "nb_lapins": 43,
+        "nb_renards": 8
+    },
+    {
+        "tour": 8,
+        "nb_lapins": 79,
+        "nb_renards": 8
+    },
+    {
+        "tour": 9,
+        "nb_lapins": 67,
+        "nb_renards": 10
+    },
+    {
+        "tour": 10,
+        "nb_lapins": 59,
+        "nb_renards": 10
+    },
+    {
+        "tour": 11,
+        "nb_lapins": 55,
+        "nb_renards": 12
+    },
+    {
+        "tour": 12,
+        "nb_lapins": 93,
+        "nb_renards": 14
+    },
+    {
+        "tour": 13,
+        "nb_lapins": 82,
+        "nb_renards": 16
+    },
+    {
+        "tour": 14,
+        "nb_lapins": 74,
+        "nb_renards": 18
+    },
+    {
+        "tour": 15,
+        "nb_lapins": 61,
+        "nb_renards": 20
+    },
+    {
+        "tour": 16,
+        "nb_lapins": 106,
+        "nb_renards": 22
+    },
+    {
+        "tour": 17,
+        "nb_lapins": 90,
+        "nb_renards": 22
+    },
+    {
+        "tour": 18,
+        "nb_lapins": 81,
+        "nb_renards": 24
+    },
+    {
+        "tour": 19,
+        "nb_lapins": 73,
+        "nb_renards": 26
+    },
+    {
+        "tour": 20,
+        "nb_lapins": 132,
+        "nb_renards": 26
+    },
+    {
+        "tour": 21,
+        "nb_lapins": 122,
+        "nb_renards": 26
+    },
+    {
+        "tour": 22,
+        "nb_lapins": 104,
+        "nb_renards": 28
+    },
+    {
+        "tour": 23,
+        "nb_lapins": 93,
+        "nb_renards": 29
+    },
+    {
+        "tour": 24,
+        "nb_lapins": 168,
+        "nb_renards": 26
+    },
+    {
+        "tour": 25,
+        "nb_lapins": 154,
+        "nb_renards": 28
+    },
+    {
+        "tour": 26,
+        "nb_lapins": 135,
+        "nb_renards": 30
+    },
+    {
+        "tour": 27,
+        "nb_lapins": 124,
+        "nb_renards": 31
+    },
+    {
+        "tour": 28,
+        "nb_lapins": 213,
+        "nb_renards": 30
+    },
+    {
+        "tour": 29,
+        "nb_lapins": 195,
+        "nb_renards": 31
+    },
+    {
+        "tour": 30,
+        "nb_lapins": 170,
+        "nb_renards": 32
+    },
+    {
+        "tour": 31,
+        "nb_lapins": 152,
+        "nb_renards": 34
+    },
+    {
+        "tour": 32,
+        "nb_lapins": 277,
+        "nb_renards": 34
+    },
+    {
+        "tour": 33,
+        "nb_lapins": 245,
+        "nb_renards": 33
+    },
+    {
+        "tour": 34,
+        "nb_lapins": 231,
+        "nb_renards": 33
+    },
+    {
+        "tour": 35,
+        "nb_lapins": 216,
+        "nb_renards": 33
+    },
+    {
+        "tour": 36,
+        "nb_lapins": 407,
+        "nb_renards": 33
+    },
+    {
+        "tour": 37,
+        "nb_lapins": 383,
+        "nb_renards": 33
+    },
+    {
+        "tour": 38,
+        "nb_lapins": 361,
+        "nb_renards": 35
+    },
+    {
+        "tour": 39,
+        "nb_lapins": 327,
+        "nb_renards": 34
+    },
+    {
+        "tour": 40,
+        "nb_lapins": 615,
+        "nb_renards": 33
+    },
+    {
+        "tour": 41,
+        "nb_lapins": 577,
+        "nb_renards": 34
+    },
+    {
+        "tour": 42,
+        "nb_lapins": 553,
+        "nb_renards": 33
+    },
+    {
+        "tour": 43,
+        "nb_lapins": 493,
+        "nb_renards": 33
+    },
+    {
+        "tour": 44,
+        "nb_lapins": 921,
+        "nb_renards": 33
+    },
+    {
+        "tour": 45,
+        "nb_lapins": 871,
+        "nb_renards": 34
+    },
+    {
+        "tour": 46,
+        "nb_lapins": 827,
+        "nb_renards": 35
+    },
+    {
+        "tour": 47,
+        "nb_lapins": 738,
+        "nb_renards": 35
+    },
+    {
+        "tour": 48,
+        "nb_lapins": 1409,
+        "nb_renards": 36
+    },
+    {
+        "tour": 49,
+        "nb_lapins": 1337,
+        "nb_renards": 36
+    },
+    {
+        "tour": 50,
+        "nb_lapins": 1257,
+        "nb_renards": 34
+    },
+    {
+        "tour": 51,
+        "nb_lapins": 1114,
+        "nb_renards": 33
+    },
+    {
+        "tour": 52,
+        "nb_lapins": 2109,
+        "nb_renards": 33
+    },
+    {
+        "tour": 53,
+        "nb_lapins": 1981,
+        "nb_renards": 32
+    },
+    {
+        "tour": 54,
+        "nb_lapins": 1879,
+        "nb_renards": 34
+    },
+    {
+        "tour": 55,
+        "nb_lapins": 1660,
+        "nb_renards": 34
+    },
+    {
+        "tour": 56,
+        "nb_lapins": 3111,
+        "nb_renards": 35
+    },
+    {
+        "tour": 57,
+        "nb_lapins": 2942,
+        "nb_renards": 36
+    },
+    {
+        "tour": 58,
+        "nb_lapins": 2776,
+        "nb_renards": 37
+    },
+    {
+        "tour": 59,
+        "nb_lapins": 2453,
+        "nb_renards": 35
+    },
+    {
+        "tour": 60,
+        "nb_lapins": 4643,
+        "nb_renards": 35
+    },
+    {
+        "tour": 61,
+        "nb_lapins": 4399,
+        "nb_renards": 35
+    },
+    {
+        "tour": 62,
+        "nb_lapins": 4169,
+        "nb_renards": 37
+    },
+    {
+        "tour": 63,
+        "nb_lapins": 3646,
+        "nb_renards": 37
+    },
+    {
+        "tour": 64,
+        "nb_lapins": 6877,
+        "nb_renards": 38
+    },
+    {
+        "tour": 65,
+        "nb_lapins": 6530,
+        "nb_renards": 38
+    },
+    {
+        "tour": 66,
+        "nb_lapins": 6169,
+        "nb_renards": 38
+    },
+    {
+        "tour": 67,
+        "nb_lapins": 5378,
+        "nb_renards": 38
+    },
+    {
+        "tour": 68,
+        "nb_lapins": 10167,
+        "nb_renards": 38
+    },
+    {
+        "tour": 69,
+        "nb_lapins": 9646,
+        "nb_renards": 36
+    },
+    {
+        "tour": 70,
+        "nb_lapins": 9180,
+        "nb_renards": 36
+    },
+    {
+        "tour": 71,
+        "nb_lapins": 8016,
+        "nb_renards": 35
+    },
+    {
+        "tour": 72,
+        "nb_lapins": 15121,
+        "nb_renards": 36
+    },
+    {
+        "tour": 73,
+        "nb_lapins": 14368,
+        "nb_renards": 35
+    },
+    {
+        "tour": 74,
+        "nb_lapins": 13679,
+        "nb_renards": 35
+    },
+    {
+        "tour": 75,
+        "nb_lapins": 12018,
+        "nb_renards": 33
+    },
+    {
+        "tour": 76,
+        "nb_lapins": 22910,
+        "nb_renards": 33
+    },
+    {
+        "tour": 77,
+        "nb_lapins": 21717,
+        "nb_renards": 34
+    },
+    {
+        "tour": 78,
+        "nb_lapins": 20651,
+        "nb_renards": 35
+    },
+    {
+        "tour": 79,
+        "nb_lapins": 18041,
+        "nb_renards": 36
+    },
+    {
+        "tour": 80,
+        "nb_lapins": 34331,
+        "nb_renards": 37
+    },
+    {
+        "tour": 81,
+        "nb_lapins": 32564,
+        "nb_renards": 37
+    },
+    {
+        "tour": 82,
+        "nb_lapins": 30901,
+        "nb_renards": 37
+    },
+    {
+        "tour": 83,
+        "nb_lapins": 27046,
+        "nb_renards": 37
+    },
+    {
+        "tour": 84,
+        "nb_lapins": 51392,
+        "nb_renards": 37
+    },
+    {
+        "tour": 85,
+        "nb_lapins": 48814,
+        "nb_renards": 37
+    },
+    {
+        "tour": 86,
+        "nb_lapins": 46366,
+        "nb_renards": 38
+    },
+    {
+        "tour": 87,
+        "nb_lapins": 40584,
+        "nb_renards": 37
+    },
+    {
+        "tour": 88,
+        "nb_lapins": 76994,
+        "nb_renards": 37
+    },
+    {
+        "tour": 89,
+        "nb_lapins": 73232,
+        "nb_renards": 37
+    },
+    {
+        "tour": 90,
+        "nb_lapins": 69644,
+        "nb_renards": 38
+    },
+    {
+        "tour": 91,
+        "nb_lapins": 60871,
+        "nb_renards": 37
+    },
+    {
+        "tour": 92,
+        "nb_lapins": 115519,
+        "nb_renards": 37
+    },
+    {
+        "tour": 93,
+        "nb_lapins": 109737,
+        "nb_renards": 36
+    },
+    {
+        "tour": 94,
+        "nb_lapins": 104234,
+        "nb_renards": 36
+    },
+    {
+        "tour": 95,
+        "nb_lapins": 91090,
+        "nb_renards": 36
+    },
+    {
+        "tour": 96,
+        "nb_lapins": 173289,
+        "nb_renards": 36
+    },
+    {
+        "tour": 97,
+        "nb_lapins": 164868,
+        "nb_renards": 36
+    },
+    {
+        "tour": 98,
+        "nb_lapins": 156593,
+        "nb_renards": 36
+    },
+    {
+        "tour": 99,
+        "nb_lapins": 136721,
+        "nb_renards": 37
+    },
+    {
+        "tour": 100,
+        "nb_lapins": 259753,
+        "nb_renards": 37
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 43,
+        "nb_renards": 2
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 41,
+        "nb_renards": 2
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 38,
+        "nb_renards": 4
+    },
+    {
+        "tour": 4,
+        "nb_lapins": 69,
+        "nb_renards": 4
+    },
+    {
+        "tour": 5,
+        "nb_lapins": 64,
+        "nb_renards": 4
+    },
+    {
+        "tour": 6,
+        "nb_lapins": 59,
+        "nb_renards": 6
+    },
+    {
+        "tour": 7,
+        "nb_lapins": 48,
+        "nb_renards": 8
+    },
+    {
+        "tour": 8,
+        "nb_lapins": 89,
+        "nb_renards": 8
+    },
+    {
+        "tour": 9,
+        "nb_lapins": 82,
+        "nb_renards": 10
+    },
+    {
+        "tour": 10,
+        "nb_lapins": 75,
+        "nb_renards": 8
+    },
+    {
+        "tour": 11,
+        "nb_lapins": 71,
+        "nb_renards": 10
+    },
+    {
+        "tour": 12,
+        "nb_lapins": 129,
+        "nb_renards": 12
+    },
+    {
+        "tour": 13,
+        "nb_lapins": 120,
+        "nb_renards": 14
+    },
+    {
+        "tour": 14,
+        "nb_lapins": 105,
+        "nb_renards": 16
+    },
+    {
+        "tour": 15,
+        "nb_lapins": 94,
+        "nb_renards": 18
+    },
+    {
+        "tour": 16,
+        "nb_lapins": 168,
+        "nb_renards": 19
+    },
+    {
+        "tour": 17,
+        "nb_lapins": 144,
+        "nb_renards": 21
+    },
+    {
+        "tour": 18,
+        "nb_lapins": 129,
+        "nb_renards": 23
+    },
+    {
+        "tour": 19,
+        "nb_lapins": 114,
+        "nb_renards": 23
+    },
+    {
+        "tour": 20,
+        "nb_lapins": 206,
+        "nb_renards": 23
+    },
+    {
+        "tour": 21,
+        "nb_lapins": 191,
+        "nb_renards": 25
+    },
+    {
+        "tour": 22,
+        "nb_lapins": 176,
+        "nb_renards": 27
+    },
+    {
+        "tour": 23,
+        "nb_lapins": 158,
+        "nb_renards": 29
+    },
+    {
+        "tour": 24,
+        "nb_lapins": 287,
+        "nb_renards": 28
+    },
+    {
+        "tour": 25,
+        "nb_lapins": 267,
+        "nb_renards": 30
+    },
+    {
+        "tour": 26,
+        "nb_lapins": 246,
+        "nb_renards": 32
+    },
+    {
+        "tour": 27,
+        "nb_lapins": 228,
+        "nb_renards": 31
+    },
+    {
+        "tour": 28,
+        "nb_lapins": 422,
+        "nb_renards": 32
+    },
+    {
+        "tour": 29,
+        "nb_lapins": 398,
+        "nb_renards": 33
+    },
+    {
+        "tour": 30,
+        "nb_lapins": 364,
+        "nb_renards": 33
+    },
+    {
+        "tour": 31,
+        "nb_lapins": 338,
+        "nb_renards": 35
+    },
+    {
+        "tour": 32,
+        "nb_lapins": 634,
+        "nb_renards": 36
+    },
+    {
+        "tour": 33,
+        "nb_lapins": 597,
+        "nb_renards": 36
+    },
+    {
+        "tour": 34,
+        "nb_lapins": 554,
+        "nb_renards": 35
+    },
+    {
+        "tour": 35,
+        "nb_lapins": 506,
+        "nb_renards": 35
+    },
+    {
+        "tour": 36,
+        "nb_lapins": 951,
+        "nb_renards": 31
+    },
+    {
+        "tour": 37,
+        "nb_lapins": 902,
+        "nb_renards": 32
+    },
+    {
+        "tour": 38,
+        "nb_lapins": 859,
+        "nb_renards": 32
+    },
+    {
+        "tour": 39,
+        "nb_lapins": 750,
+        "nb_renards": 34
+    },
+    {
+        "tour": 40,
+        "nb_lapins": 1420,
+        "nb_renards": 35
+    },
+    {
+        "tour": 41,
+        "nb_lapins": 1330,
+        "nb_renards": 35
+    },
+    {
+        "tour": 42,
+        "nb_lapins": 1265,
+        "nb_renards": 36
+    },
+    {
+        "tour": 43,
+        "nb_lapins": 1129,
+        "nb_renards": 35
+    },
+    {
+        "tour": 44,
+        "nb_lapins": 2132,
+        "nb_renards": 36
+    },
+    {
+        "tour": 45,
+        "nb_lapins": 2011,
+        "nb_renards": 37
+    },
+    {
+        "tour": 46,
+        "nb_lapins": 1895,
+        "nb_renards": 37
+    },
+    {
+        "tour": 47,
+        "nb_lapins": 1667,
+        "nb_renards": 37
+    },
+    {
+        "tour": 48,
+        "nb_lapins": 3143,
+        "nb_renards": 36
+    },
+    {
+        "tour": 49,
+        "nb_lapins": 2987,
+        "nb_renards": 35
+    },
+    {
+        "tour": 50,
+        "nb_lapins": 2841,
+        "nb_renards": 36
+    },
+    {
+        "tour": 51,
+        "nb_lapins": 2473,
+        "nb_renards": 36
+    },
+    {
+        "tour": 52,
+        "nb_lapins": 4695,
+        "nb_renards": 35
+    },
+    {
+        "tour": 53,
+        "nb_lapins": 4466,
+        "nb_renards": 34
+    },
+    {
+        "tour": 54,
+        "nb_lapins": 4214,
+        "nb_renards": 33
+    },
+    {
+        "tour": 55,
+        "nb_lapins": 3656,
+        "nb_renards": 32
+    },
+    {
+        "tour": 56,
+        "nb_lapins": 7002,
+        "nb_renards": 32
+    },
+    {
+        "tour": 57,
+        "nb_lapins": 6654,
+        "nb_renards": 32
+    },
+    {
+        "tour": 58,
+        "nb_lapins": 6313,
+        "nb_renards": 32
+    },
+    {
+        "tour": 59,
+        "nb_lapins": 5524,
+        "nb_renards": 32
+    },
+    {
+        "tour": 60,
+        "nb_lapins": 10444,
+        "nb_renards": 32
+    },
+    {
+        "tour": 61,
+        "nb_lapins": 9922,
+        "nb_renards": 33
+    },
+    {
+        "tour": 62,
+        "nb_lapins": 9420,
+        "nb_renards": 33
+    },
+    {
+        "tour": 63,
+        "nb_lapins": 8230,
+        "nb_renards": 34
+    },
+    {
+        "tour": 64,
+        "nb_lapins": 15677,
+        "nb_renards": 34
+    },
+    {
+        "tour": 65,
+        "nb_lapins": 14896,
+        "nb_renards": 34
+    },
+    {
+        "tour": 66,
+        "nb_lapins": 14157,
+        "nb_renards": 35
+    },
+    {
+        "tour": 67,
+        "nb_lapins": 12370,
+        "nb_renards": 35
+    },
+    {
+        "tour": 68,
+        "nb_lapins": 23485,
+        "nb_renards": 35
+    },
+    {
+        "tour": 69,
+        "nb_lapins": 22303,
+        "nb_renards": 34
+    },
+    {
+        "tour": 70,
+        "nb_lapins": 21230,
+        "nb_renards": 34
+    },
+    {
+        "tour": 71,
+        "nb_lapins": 18554,
+        "nb_renards": 34
+    },
+    {
+        "tour": 72,
+        "nb_lapins": 35315,
+        "nb_renards": 35
+    },
+    {
+        "tour": 73,
+        "nb_lapins": 33608,
+        "nb_renards": 37
+    },
+    {
+        "tour": 74,
+        "nb_lapins": 31914,
+        "nb_renards": 36
+    },
+    {
+        "tour": 75,
+        "nb_lapins": 27902,
+        "nb_renards": 36
+    },
+    {
+        "tour": 76,
+        "nb_lapins": 53040,
+        "nb_renards": 37
+    },
+    {
+        "tour": 1,
+        "nb_lapins": 49,
+        "nb_renards": 2
+    },
+    {
+        "tour": 2,
+        "nb_lapins": 43,
+        "nb_renards": 2
+    },
+    {
+        "tour": 3,
+        "nb_lapins": 38,
+        "nb_renards": 4
+    },
+    {
+        "tour": 4,
+        "nb_lapins": 68,
+        "nb_renards": 4
+    },
+    {
+        "tour": 5,
+        "nb_lapins": 67,
+        "nb_renards": 4
+    },
+    {
+        "tour": 6,
+        "nb_lapins": 61,
+        "nb_renards": 6
+    },
+    {
+        "tour": 7,
+        "nb_lapins": 55,
+        "nb_renards": 8
+    },
+    {
+        "tour": 8,
+        "nb_lapins": 100,
+        "nb_renards": 8
+    },
+    {
+        "tour": 9,
+        "nb_lapins": 94,
+        "nb_renards": 10
+    },
+    {
+        "tour": 10,
+        "nb_lapins": 83,
+        "nb_renards": 10
+    },
+    {
+        "tour": 11,
+        "nb_lapins": 79,
+        "nb_renards": 12
+    },
+    {
+        "tour": 12,
+        "nb_lapins": 143,
+        "nb_renards": 14
+    },
+    {
+        "tour": 13,
+        "nb_lapins": 130,
+        "nb_renards": 16
+    },
+    {
+        "tour": 14,
+        "nb_lapins": 121,
+        "nb_renards": 18
+    },
+    {
+        "tour": 15,
+        "nb_lapins": 104,
+        "nb_renards": 20
+    },
+    {
+        "tour": 16,
+        "nb_lapins": 187,
+        "nb_renards": 22
+    },
+    {
+        "tour": 17,
+        "nb_lapins": 173,
+        "nb_renards": 21
+    },
+    {
+        "tour": 18,
+        "nb_lapins": 154,
+        "nb_renards": 23
+    },
+    {
+        "tour": 19,
+        "nb_lapins": 145,
+        "nb_renards": 25
+    },
+    {
+        "tour": 20,
+        "nb_lapins": 261,
+        "nb_renards": 24
+    },
+    {
+        "tour": 21,
+        "nb_lapins": 240,
+        "nb_renards": 26
+    },
+    {
+        "tour": 22,
+        "nb_lapins": 214,
+        "nb_renards": 28
+    },
+    {
+        "tour": 23,
+        "nb_lapins": 199,
+        "nb_renards": 28
+    },
+    {
+        "tour": 24,
+        "nb_lapins": 367,
+        "nb_renards": 28
+    },
+    {
+        "tour": 25,
+        "nb_lapins": 339,
+        "nb_renards": 29
+    },
+    {
+        "tour": 26,
+        "nb_lapins": 307,
+        "nb_renards": 31
+    },
+    {
+        "tour": 27,
+        "nb_lapins": 279,
+        "nb_renards": 31
+    },
+    {
+        "tour": 28,
+        "nb_lapins": 522,
+        "nb_renards": 30
+    },
+    {
+        "tour": 29,
+        "nb_lapins": 471,
+        "nb_renards": 31
+    },
+    {
+        "tour": 30,
+        "nb_lapins": 438,
+        "nb_renards": 31
+    },
+    {
+        "tour": 31,
+        "nb_lapins": 413,
+        "nb_renards": 32
+    },
+    {
+        "tour": 32,
+        "nb_lapins": 783,
+        "nb_renards": 33
+    },
+    {
+        "tour": 33,
+        "nb_lapins": 739,
+        "nb_renards": 32
+    },
+    {
+        "tour": 34,
+        "nb_lapins": 696,
+        "nb_renards": 33
+    },
+    {
+        "tour": 35,
+        "nb_lapins": 614,
+        "nb_renards": 32
+    },
+    {
+        "tour": 36,
+        "nb_lapins": 1153,
+        "nb_renards": 32
+    },
+    {
+        "tour": 37,
+        "nb_lapins": 1087,
+        "nb_renards": 32
+    },
+    {
+        "tour": 38,
+        "nb_lapins": 1024,
+        "nb_renards": 34
+    },
+    {
+        "tour": 39,
+        "nb_lapins": 898,
+        "nb_renards": 34
+    },
+    {
+        "tour": 40,
+        "nb_lapins": 1681,
+        "nb_renards": 33
+    },
+    {
+        "tour": 41,
+        "nb_lapins": 1596,
+        "nb_renards": 32
+    },
+    {
+        "tour": 42,
+        "nb_lapins": 1492,
+        "nb_renards": 32
+    },
+    {
+        "tour": 43,
+        "nb_lapins": 1329,
+        "nb_renards": 32
+    },
+    {
+        "tour": 44,
+        "nb_lapins": 2501,
+        "nb_renards": 34
+    },
+    {
+        "tour": 45,
+        "nb_lapins": 2359,
+        "nb_renards": 35
+    },
+    {
+        "tour": 46,
+        "nb_lapins": 2228,
+        "nb_renards": 35
+    },
+    {
+        "tour": 47,
+        "nb_lapins": 1962,
+        "nb_renards": 34
+    },
+    {
+        "tour": 48,
+        "nb_lapins": 3738,
+        "nb_renards": 36
+    },
+    {
+        "tour": 49,
+        "nb_lapins": 3540,
+        "nb_renards": 34
+    },
+    {
+        "tour": 50,
+        "nb_lapins": 3353,
+        "nb_renards": 35
+    },
+    {
+        "tour": 51,
+        "nb_lapins": 2974,
+        "nb_renards": 35
+    },
+    {
+        "tour": 52,
+        "nb_lapins": 5628,
+        "nb_renards": 33
+    },
+    {
+        "tour": 53,
+        "nb_lapins": 5348,
+        "nb_renards": 34
+    },
+    {
+        "tour": 54,
+        "nb_lapins": 5069,
+        "nb_renards": 35
+    },
+    {
+        "tour": 55,
+        "nb_lapins": 4454,
+        "nb_renards": 35
+    },
+    {
+        "tour": 56,
+        "nb_lapins": 8476,
+        "nb_renards": 37
+    },
+    {
+        "tour": 57,
+        "nb_lapins": 8016,
+        "nb_renards": 36
+    },
+    {
+        "tour": 58,
+        "nb_lapins": 7633,
+        "nb_renards": 37
+    },
+    {
+        "tour": 59,
+        "nb_lapins": 6682,
+        "nb_renards": 37
+    },
+    {
+        "tour": 60,
+        "nb_lapins": 12697,
+        "nb_renards": 36
+    },
+    {
+        "tour": 61,
+        "nb_lapins": 12036,
+        "nb_renards": 37
+    },
+    {
+        "tour": 62,
+        "nb_lapins": 11454,
+        "nb_renards": 38
+    },
+    {
+        "tour": 63,
+        "nb_lapins": 10034,
+        "nb_renards": 38
+    },
+    {
+        "tour": 64,
+        "nb_lapins": 19067,
+        "nb_renards": 37
+    },
+    {
+        "tour": 65,
+        "nb_lapins": 18047,
+        "nb_renards": 37
+    },
+    {
+        "tour": 66,
+        "nb_lapins": 17105,
+        "nb_renards": 37
+    },
+    {
+        "tour": 67,
+        "nb_lapins": 14947,
+        "nb_renards": 36
+    },
+    {
+        "tour": 68,
+        "nb_lapins": 28412,
+        "nb_renards": 35
+    },
+    {
+        "tour": 69,
+        "nb_lapins": 27019,
+        "nb_renards": 34
+    },
+    {
+        "tour": 70,
+        "nb_lapins": 25583,
+        "nb_renards": 34
+    },
+    {
+        "tour": 71,
+        "nb_lapins": 22464,
+        "nb_renards": 32
+    },
+    {
+        "tour": 72,
+        "nb_lapins": 42753,
+        "nb_renards": 33
+    },
+    {
+        "tour": 73,
+        "nb_lapins": 40623,
+        "nb_renards": 33
+    },
+    {
+        "tour": 74,
+        "nb_lapins": 38626,
+        "nb_renards": 32
+    },
+    {
+        "tour": 75,
+        "nb_lapins": 33805,
+        "nb_renards": 33
+    },
+    {
+        "tour": 76,
+        "nb_lapins": 64153,
+        "nb_renards": 31
+    },
+    {
+        "tour": 77,
+        "nb_lapins": 60952,
+        "nb_renards": 31
+    },
+    {
+        "tour": 78,
+        "nb_lapins": 57932,
+        "nb_renards": 33
+    },
+    {
+        "tour": 79,
+        "nb_lapins": 50643,
+        "nb_renards": 34
+    },
+    {
+        "tour": 80,
+        "nb_lapins": 96269,
+        "nb_renards": 35
+    },
+    {
+        "tour": 81,
+        "nb_lapins": 91458,
+        "nb_renards": 36
+    },
+    {
+        "tour": 82,
+        "nb_lapins": 86920,
+        "nb_renards": 36
+    },
+    {
+        "tour": 83,
+        "nb_lapins": 75930,
+        "nb_renards": 36
+    },
+    {
+        "tour": 84,
+        "nb_lapins": 144149,
+        "nb_renards": 36
+    },
+    {
+        "tour": 85,
+        "nb_lapins": 136953,
+        "nb_renards": 36
+    },
+    {
+        "tour": 86,
+        "nb_lapins": 130067,
+        "nb_renards": 37
+    },
+    {
+        "tour": 87,
+        "nb_lapins": 113733,
+        "nb_renards": 34
     }
 ]
